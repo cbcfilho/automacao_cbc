@@ -22,7 +22,7 @@ Christian Borges da Costa — Gerente de TI (christian.costa@bdrmt.com.br)
 ### Outros contatos relevantes já vistos
 - Lucas Souza — Controller (lucas.souza@bdrmt.com.br)
 - Natália Melo — Financeiro (natalia.melo@bdrmt.com.br)
-- Rosangela Natalia Dallabrida (rosangela.dallabrida@grupobwp.com.br) — cargo a confirmar; designada em 01/10 para avaliar o caso Trimble/Tekla e confirmar a autenticidade (tratar como responsável jurídico/contratual do caso até o Christian corrigir)
+- Rosangela Natalia Dallabrida — Assessora Jurídica do grupo (rosangela.dallabrida@grupobwp.com.br); designada em 01/10 para avaliar o caso Trimble/Tekla e confirmar a autenticidade. Mensagens dela ou sobre contratos, notificações e processos: mínimo ALTA; o conteúdo pode ser sensível (aplicar regra de assuntos sensíveis quando for jurídico em disputa)
 Observação: quando o e-mail não estiver listado, identifique a pessoa pelo nome e pelo cargo na assinatura.
 
 ## Regra de peso
