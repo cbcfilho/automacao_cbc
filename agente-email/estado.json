@@ -1,15 +1,75 @@
 {
-  "ultima_execucao": "2026-10-01T19:00:00Z",
+  "ultima_execucao": "2026-10-02T11:55:00Z",
   "itens_reportados": [],
   "pendencias": [
-    {"assunto": "Trimble/Tekla", "aguardando": ["Rosangela Dallabrida (autenticidade)", "Alexandre Frigotto (levantamento das máquinas)"], "desde": "2026-10-01"},
-    {"assunto": "Ingram/StartWork pedido 233065 - boleto vencido 08/09 (R$ 14.646,27)", "aguardando": ["Natália Melo"], "desde": "2026-09-30"},
-    {"assunto": "Faz. Itaúba - cotação 6994 confirmada", "aguardando": ["Carlos Silva (validade e estoque)"], "desde": "2026-10-01"},
-    {"assunto": "Aviso de conclusão da migração da pasta do RH/DHO", "aguardando": ["Christian enviar ao Todos BDR"], "desde": "2026-10-01"},
-    {"assunto": "Erro de sincronização Entra Connect", "aguardando": ["Christian abrir o relatório"], "desde": "2026-09-30"}
+    {
+      "assunto": "Trimble/Tekla",
+      "aguardando": [
+        "Rosangela Dallabrida (autenticidade)",
+        "Alexandre Frigotto (levantamento das máquinas)"
+      ],
+      "desde": "2026-10-01"
+    },
+    {
+      "assunto": "Ingram/StartWork pedido 233065 - boleto vencido 08/09 (R$ 14.646,27)",
+      "aguardando": [
+        "Natália Melo"
+      ],
+      "desde": "2026-09-30"
+    },
+    {
+      "assunto": "Faz. Itaúba - cotação 6994 confirmada",
+      "aguardando": [
+        "Carlos Silva (validade e estoque)"
+      ],
+      "desde": "2026-10-01"
+    },
+    {
+      "assunto": "Aviso de conclusão da migração da pasta do RH/DHO",
+      "aguardando": [
+        "Christian enviar ao Todos BDR"
+      ],
+      "desde": "2026-10-01"
+    },
+    {
+      "assunto": "Erro de sincronização Entra Connect",
+      "aguardando": [
+        "Christian abrir o relatório"
+      ],
+      "desde": "2026-09-30"
+    },
+    {
+      "assunto": "Senior: base legada da folha (somente consulta) - validar proposta e indicar signatário; acesso exigido até 05/10/2026",
+      "aguardando": [
+        "Christian validar (pedido do Andrei Moreno)",
+        "Edson Souza (advogado externo) validar",
+        "Senior: ajustar mensalidade R$ 1.338,71"
+      ],
+      "desde": "2026-10-01"
+    },
+    {
+      "assunto": "Alertas de regra de encaminhamento em 01/10 nas caixas de nelson@grupobwp, nicollas.lopes@bdrmt e lisiane@grupobwp (só a do Leandro foi confirmada como do Christian)",
+      "aguardando": [
+        "Christian confirmar se foram criadas por ele"
+      ],
+      "desde": "2026-10-01"
+    },
+    {
+      "assunto": "Computadores para jovens aprendizes: comprar carregadores das 4 máquinas na manhã de 02/10",
+      "aguardando": [
+        "Christian"
+      ],
+      "desde": "2026-10-02"
+    }
   ],
   "correcoes": [
-    {"regra": "Alertas do Office 365 sobre criação de regra de encaminhamento na caixa de leandro@grupobwp.com.br em 01/10/2026 foram criados pelo próprio Christian. Tratar como BAIXA (ciência). Para outras caixas ou usuários, manter a análise de segurança.", "data": "2026-10-01"},
-    {"regra": "E-mails de verificação da Starlink endereçados a leandro.starlinkmini01@gmail.com que chegam na caixa do Christian são esperados (configuração dele para o Leandro). Tratar como BAIXA e nunca repetir os códigos.", "data": "2026-10-01"}
+    {
+      "regra": "Alertas do Office 365 sobre criação de regra de encaminhamento na caixa de leandro@grupobwp.com.br em 01/10/2026 foram criados pelo próprio Christian. Tratar como BAIXA (ciência). Para outras caixas ou usuários, manter a análise de segurança.",
+      "data": "2026-10-01"
+    },
+    {
+      "regra": "E-mails de verificação da Starlink endereçados a leandro.starlinkmini01@gmail.com que chegam na caixa do Christian são esperados (configuração dele para o Leandro). Tratar como BAIXA e nunca repetir os códigos.",
+      "data": "2026-10-01"
+    }
   ]
 }
