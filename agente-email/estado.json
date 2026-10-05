@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-10-02T11:55:00Z",
+  "ultima_execucao": "2026-10-05T10:30:00Z",
   "itens_reportados": [],
   "pendencias": [
     {
@@ -17,16 +17,15 @@
       "desde": "2026-10-01"
     },
     {
-      "assunto": "Senior: base legada da folha (somente consulta) - validar proposta e indicar signatário; acesso exigido até 05/10/2026",
+      "assunto": "Senior: base legada da folha (somente consulta) - proposta enviada para assinatura do Nelson Pelle Júnior em 02/10; acesso exigido até 05/10",
       "aguardando": [
-        "Christian validar (pedido do Andrei Moreno)",
-        "Edson Souza (advogado externo) validar",
-        "Senior: ajustar mensalidade R$ 1.338,71"
+        "Nelson assinar a proposta (link enviado pela Senior em 02/10 14:15)",
+        "Confirmação da formalização pela Senior"
       ],
       "desde": "2026-10-01"
     },
     {
-      "assunto": "Alertas de regra de encaminhamento em 01/10 nas caixas de nelson@grupobwp, nicollas.lopes@bdrmt e lisiane@grupobwp (só a do Leandro foi confirmada como do Christian)",
+      "assunto": "Alertas de regra de encaminhamento em 01-02/10 nas caixas de nelson@grupobwp, nicollas.lopes@bdrmt, lisiane@grupobwp e anderson.aguiar@bdrmt (só a do Leandro foi confirmada como do Christian)",
       "aguardando": [
         "Christian confirmar se foram criadas por ele"
       ],
@@ -36,6 +35,20 @@
       "assunto": "Computadores para jovens aprendizes: comprar carregadores das 4 máquinas na manhã de 02/10",
       "aguardando": [
         "Christian"
+      ],
+      "desde": "2026-10-02"
+    },
+    {
+      "assunto": "Carla Lima perguntou 'alguma previsão?' no Teams em 02/10 (provavelmente sobre a pasta do RH/DHO)",
+      "aguardando": [
+        "Christian responder"
+      ],
+      "desde": "2026-10-02"
+    },
+    {
+      "assunto": "SharePoint: Karen Albuquerque Takahashi pediu para editar 'COP - 732 SPE FS ARMAZÉM IV LRV_R00'",
+      "aguardando": [
+        "Christian decidir"
       ],
       "desde": "2026-10-02"
     }
@@ -76,5 +89,8 @@
       "desde": "2026-09-30",
       "resolvido_em": "2026-10-02"
     }
+  ],
+  "observacoes": [
+    "Entra Connect: alertas de erro de sincronização continuam chegando (02/10, 04/10, 05/10) apesar de marcado como resolvido em 02/10."
   ]
 }
