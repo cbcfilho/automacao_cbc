@@ -1,0 +1,76 @@
+{
+  "slug": "2026-10-14-agente-armazem",
+  "pilar": "IA na prática",
+  "legenda": "Todo mundo fala em \"agente de IA\". Pouca gente explica o que é. Então vou explicar do jeito que quem é do agro entende: com o recebimento de um armazém de grãos.\n\nO caminhão chega, passa na balança, o classificador tira a amostra, compara com o padrão e decide: vai para o secador, vai direto para o silo ou chama o gerente. No fim, tudo fica registrado no romaneio.\n\nUm agente de IA faz a mesma coisa no escritório. Recebe um e-mail, uma nota ou um pedido, confere os dados, compara com as regras da sua empresa, prepara o próximo passo e avisa quando algo foge do padrão.\n\nE, igual no armazém, carga fora do padrão quem decide é o gerente. O agente não libera pagamento, não fecha compra e não envia nada em seu nome sem você aprovar.\n\nQuer saber onde um agente cabe na sua operação? Comente AGENTE que eu te explico.",
+  "hashtags": ["#agronegocio", "#gestaorural", "#inteligenciaartificial", "#agentesdeia", "#automacao", "#tecnologianoagro", "#armazenagem", "#vanguard"],
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "O que é um *agente de IA*? Explico com um armazém de grãos",
+      "subtitulo": "Sem palavra difícil."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Chatbot responde. *Agente trabalha.*",
+      "texto": "O chatbot espera a sua pergunta e devolve uma resposta.\n\nO agente recebe uma tarefa e segue os passos até o fim: lê, confere, compara com as regras, prepara e avisa."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Pense no *recebimento* do armazém",
+      "itens": [
+        "O caminhão chega e passa na balança",
+        "O classificador tira a amostra",
+        "Compara umidade e impureza com o padrão",
+        "Decide: secador, silo ou chamar o gerente",
+        "Registra tudo no romaneio"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "No escritório, *funciona igual*",
+      "itens": [
+        "Caminhão → o e-mail, a nota ou o pedido que chega",
+        "Amostra → os dados que o agente lê do documento",
+        "Padrão → as regras da sua empresa",
+        "Romaneio → o registro no sistema ou na planilha"
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Os 4 ingredientes de um *agente*",
+      "itens": [
+        "Uma tarefa clara: o que ele precisa entregar",
+        "Acesso ao que precisa ler: e-mail, planilha, sistema",
+        "As suas regras: o que é urgente, quando chamar alguém",
+        "Memória: lembra o que já viu e as suas correções"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "O que ele *não faz* sozinho",
+      "itens": [
+        "Não libera pagamento",
+        "Não fecha compra nem muda contrato",
+        "Não envia nada em seu nome sem aprovação",
+        "Não deixa passar o que está fora do padrão sem avisar"
+      ],
+      "destaque": "Igual no armazém: carga fora do padrão, *quem decide é o gerente*."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Onde ele cabe no *escritório do agro*",
+      "itens": [
+        "Conferir romaneio com a nota fiscal",
+        "Separar e-mails de fornecedores por prioridade",
+        "Comparar cotações de insumos",
+        "Cobrar documentos que estão faltando"
+      ]
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Onde um agente cabe na *sua operação*?",
+      "texto": "Me conta a rotina que mais toma tempo do seu escritório.",
+      "palavra": "AGENTE"
+    }
+  ]
+}
