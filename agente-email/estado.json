@@ -1,6 +1,49 @@
 {
-  "ultima_execucao": "2026-10-05T10:30:00Z",
-  "itens_reportados": [],
+  "ultima_execucao": "2026-10-14T00:42:05Z",
+  "itens_reportados": [
+    {
+      "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
+      "prioridade": "ALTA",
+      "data": "2026-10-13",
+      "status": "aberto"
+    },
+    {
+      "id": "SharePoint sem espaço (6463 GB de 5959 GB), alertas diários",
+      "prioridade": "ALTA",
+      "data": "2026-10-13",
+      "status": "aberto"
+    },
+    {
+      "id": "Acesso externo gmail solicitado ao site SharePoint RH",
+      "prioridade": "ALTA",
+      "data": "2026-10-13",
+      "status": "aberto"
+    },
+    {
+      "id": "Levantamento softwares/licenças RH - Andrei pede relação ao Christian",
+      "prioridade": "ALTA",
+      "data": "2026-10-08",
+      "status": "aberto"
+    },
+    {
+      "id": "Senior base legada folha - assinatura concluída pela Rosangela 07/10; Christian pediu ajuste 60->30 dias",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-07",
+      "status": "acompanhar"
+    },
+    {
+      "id": "Entra Connect erros de sincronização (06,07,10,11,13/10)",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-13",
+      "status": "aberto"
+    },
+    {
+      "id": "Reunião Mensal de Resultados BDR 14/10 08:30-17:30",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-14",
+      "status": "agenda"
+    }
+  ],
   "pendencias": [
     {
       "assunto": "Faz. Itaúba - cotação 6994 confirmada",
@@ -51,6 +94,20 @@
         "Christian decidir"
       ],
       "desde": "2026-10-02"
+    },
+    {
+      "assunto": "Diretoria (Frigotto) perguntou se há equipamentos disponíveis ou se é preciso comprar para 5 engenheiros (LRV 2, QUE 2, PVA 1)",
+      "aguardando": [
+        "Christian responder"
+      ],
+      "desde": "2026-10-13"
+    },
+    {
+      "assunto": "Andrei pediu relação de softwares e contratos da TI (levantamento RH/DP)",
+      "aguardando": [
+        "Christian enviar"
+      ],
+      "desde": "2026-10-08"
     }
   ],
   "correcoes": [
@@ -91,6 +148,8 @@
     }
   ],
   "observacoes": [
-    "Entra Connect: alertas de erro de sincronização continuam chegando (02/10, 04/10, 05/10) apesar de marcado como resolvido em 02/10."
+    "Entra Connect: alertas continuam (06,07,10,11,13/10) apesar de marcado como resolvido em 02/10.",
+    "SharePoint sem espaço: alertas diários desde 06/10, uso subindo (6463 GB em 13/10).",
+    "Execução de teste 14/10: conector Microsoft 365 funcionou (Outlook e agenda)."
   ]
 }
