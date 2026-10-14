@@ -1,5 +1,5 @@
 {
-  "ultima_pesquisa": "2026-10-13",
+  "ultima_pesquisa": "2026-10-14",
   "pautas_sugeridas": [
     {
       "id": "2026-10-13-case-agente-email",
@@ -34,6 +34,41 @@
       "titulo": "5 sinais de que sua empresa do agro depende demais de planilha",
       "pilar": "Gestão no agro",
       "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-14-whatsapp-cobranca",
+      "titulo": "WhatsApp Business: mensagens de atendimento deixaram de ser grátis. O que muda para a sua empresa",
+      "pilar": "Notícias e tendências",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-14-reforma-tributaria-nota",
+      "titulo": "Reforma tributária: sua nota fiscal já destaca CBS e IBS?",
+      "pilar": "Gestão no agro",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-14-ia-email-ordem-escondida",
+      "titulo": "Seu assistente de IA lê e-mail. E se o e-mail der uma ordem escondida?",
+      "pilar": "IA na prática",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-14-bastidor-motor-conteudo",
+      "titulo": "A gente usa no nosso marketing o que vende para o cliente",
+      "pilar": "Cases e bastidores",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-14-gestor-ti-agro",
+      "titulo": "Por que um gestor de TI foi parar no agro",
+      "pilar": "Quem faz",
+      "formato": "reel",
       "status": "sugerida"
     }
   ],
