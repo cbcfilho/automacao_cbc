@@ -84,7 +84,7 @@
       "titulo": "Cotação de insumo por WhatsApp e e-mail: o custo de comprar no escuro",
       "pilar": "Gestão no agro",
       "formato": "carrossel",
-      "status": "sugerida"
+      "status": "em_producao"
     },
     {
       "id": "2026-10-14b-3",
@@ -111,5 +111,10 @@
   "publicados": [],
   "metricas_semanais": [],
   "aprendizados": [],
-  "correcoes": []
+  "correcoes": [
+    {
+      "regra": "Identidade visual: usar a logo da Vanguard (carrossel/logo.png) e as cores tiradas dela (azul-marinho e ciano), no lugar da paleta verde provisória.",
+      "data": "2026-10-13"
+    }
+  ]
 }

@@ -54,17 +54,21 @@ function fmt(s) {
     .replace(/\n/g, '<br>');
 }
 
-function logoHtml(marca) {
-  if (marca.logo) {
-    const arq = path.resolve(AQUI, marca.logo);
-    if (fs.existsSync(arq)) {
-      const ext = path.extname(arq).slice(1).replace('svg', 'svg+xml').replace('jpg', 'jpeg');
-      const b64 = fs.readFileSync(arq).toString('base64');
-      return `<img class="logo" src="data:image/${ext};base64,${b64}" alt="">`;
-    }
-    console.warn(`Aviso: logo "${marca.logo}" não encontrado; usando o nome em texto.`);
+// Logo embutido como data URI (o HTML do slide não tem acesso a arquivos locais).
+function logoSrc(marca) {
+  if (!marca.logo) return null;
+  const arq = path.resolve(AQUI, marca.logo);
+  if (!fs.existsSync(arq)) {
+    console.warn(`Aviso: logo "${marca.logo}" não encontrado; usando só o nome em texto.`);
+    return null;
   }
-  return `<span class="marca-nome">${esc(marca.nome)}</span>`;
+  const ext = path.extname(arq).slice(1).replace('svg', 'svg+xml').replace('jpg', 'jpeg');
+  return `data:image/${ext};base64,${fs.readFileSync(arq).toString('base64')}`;
+}
+
+function logoHtml(marca, src) {
+  const nome = `<span class="marca-nome">${esc(marca.nome)}</span>`;
+  return src ? `<span class="marca"><img class="logo" src="${src}" alt="">${nome}</span>` : nome;
 }
 
 function css(marca) {
@@ -79,7 +83,7 @@ function css(marca) {
   .escuro .suave { color: ${c.suave_escuro}; }
   .claro  .suave { color: ${c.suave_claro}; }
   .escuro .hl { color: ${c.destaque}; font-style: normal; }
-  .claro  .hl { color: ${c.primaria}; font-style: normal; background: linear-gradient(transparent 62%, ${c.destaque} 62%); padding: 0 4px; }
+  .claro  .hl { color: ${c.primaria}; font-style: normal; background: linear-gradient(transparent 62%, ${c.destaque}73 62%); padding: 0 4px; }
 
   /* textura discreta nos slides escuros */
   .escuro::before { content: ''; position: absolute; inset: 0; pointer-events: none;
@@ -151,7 +155,10 @@ function css(marca) {
   .escuro .rodape { border-color: ${c.escuro_2}; }
   .claro  .rodape { border-color: ${c.claro_2}; }
   .marca-nome { font-weight: 900; letter-spacing: .22em; font-size: 28px; }
-  .logo { height: 54px; width: auto; }
+  .marca { display: flex; align-items: center; gap: 18px; }
+  .logo { height: 64px; width: 64px; border-radius: 16px; padding: 4px; }
+  .logo-cta { width: 140px; height: 140px; border-radius: 32px; padding: 10px; margin-bottom: 44px; }
+  .escuro .logo, .escuro .logo-cta { background: ${c.claro}; }
   .progresso { position: absolute; left: 0; bottom: 0; height: 10px; z-index: 2; }
   .escuro .progresso { background: ${c.destaque}; }
   .claro  .progresso { background: ${c.primaria}; }
@@ -198,16 +205,16 @@ function conteudoSlide(s) {
 
 const TEMA_PADRAO = { capa: 'escuro', cta: 'escuro', numero: 'escuro' };
 
-function htmlSlide(s, i, total, marca, pilar) {
+function htmlSlide(s, i, total, marca, pilar, logo) {
   const tema = s.tema || TEMA_PADRAO[s.tipo] || 'claro';
   const etiqueta = s.etiqueta ?? (s.tipo === 'capa' ? pilar : '');
   const pagina = `${String(i + 1).padStart(2, '0')}/${String(total).padStart(2, '0')}`;
   return `<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><style>${css(marca)}</style></head>
   <body><div class="slide ${tema} ${s.tipo}">
     <div class="topo">${etiqueta ? `<span class="etiqueta">${esc(etiqueta)}</span>` : '<span></span>'}<span class="pagina suave">${pagina}</span></div>
-    <div class="corpo">${conteudoSlide(s)}</div>
+    <div class="corpo">${s.tipo === 'cta' && logo ? `<img class="logo-cta" src="${logo}" alt="">` : ''}${conteudoSlide(s)}</div>
     ${s.tipo === 'capa' ? '<span class="arraste suave">Arraste →</span>' : ''}
-    <div class="rodape">${logoHtml(marca)}<span class="suave">${esc(marca.arroba)}</span></div>
+    <div class="rodape">${logoHtml(marca, logo)}<span class="suave">${esc(marca.arroba)}</span></div>
     <div class="progresso" style="width:${((i + 1) / total) * 100}%"></div>
   </div></body></html>`;
 }
@@ -243,6 +250,7 @@ async function main() {
   const saida = path.resolve(saidaArg || path.join(AQUI, '..', 'saida', slug));
   fs.mkdirSync(saida, { recursive: true });
 
+  const logo = logoSrc(marca);
   const { chromium } = carregarPlaywright();
   const browser = await chromium.launch();
   const page = await browser.newPage({ viewport: { width: W, height: H } });
@@ -250,7 +258,7 @@ async function main() {
   const imagens = [];
 
   for (let i = 0; i < slides.length; i++) {
-    await page.setContent(htmlSlide(slides[i], i, slides.length, marca, dados.pilar), { waitUntil: 'load' });
+    await page.setContent(htmlSlide(slides[i], i, slides.length, marca, dados.pilar, logo), { waitUntil: 'load' });
     await page.evaluate(() => document.fonts.ready);
     const { cabe, escala } = await ajustarTexto(page);
     if (!cabe) {

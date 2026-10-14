@@ -69,5 +69,5 @@ Referências de perfis para observar (não copiar): [PREENCHER: perfis de concor
 
 ## Identidade visual
 Cores, nome, @ e logo do carrossel ficam em `carrossel/marca.json`.
-- Cores: [PREENCHER se a Vanguard já tiver cores oficiais — o padrão atual é verde escuro + verde-limão]
-- Logo: salvar o arquivo (PNG com fundo transparente ou SVG) em `carrossel/` e colocar o nome em `"logo"` no marca.json.
+- Cores: tiradas da logo — azul-marinho (#0A1A2F fundo, #1C5D96 azul) e ciano (#3CC8E8 destaque).
+- Logo: `carrossel/logo.png` (128 px, fundo transparente). Aparece no rodapé de todos os slides e no slide final. [PREENCHER: enviar versão em alta resolução (SVG ou PNG de 1000 px) para ficar mais nítida]
