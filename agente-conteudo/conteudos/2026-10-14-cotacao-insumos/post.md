@@ -1,7 +1,7 @@
 # Cotação de insumo por WhatsApp e e-mail: o custo de comprar no escuro
 
 Pilar: Gestão no agro · Formato: carrossel de 8 slides (principal) + reel opcional · CTA: COTAÇÃO
-Pauta: 2026-10-14b-2 · Status: aguardando aprovação do Christian
+Pauta: 2026-10-14b-2 · Status: APROVADO pelo Christian em 13/10/2026 — aguardando agendamento (sugestão: sexta 16/10, 11h MT)
 
 ## Legenda do Instagram
 Quantas cotações da última compra de insumo você consegue comparar agora, sem procurar no celular de ninguém?
