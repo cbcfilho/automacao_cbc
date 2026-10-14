@@ -47,7 +47,7 @@ Precisa de Node 18+ e do Playwright (`npm install -g playwright && npx playwrigh
 
 **Para publicar nesta fase** (gratuito): Meta Business Suite → Criar publicação → selecione o Instagram → adicione as imagens `01.jpg…07.jpg` na ordem → cole o `legenda.txt` → **Agendar** no horário sugerido.
 
-**Rodar sozinho toda semana**: dá para criar uma tarefa agendada no Claude (ex.: toda segunda às 6h45 com o pedido "rode as pautas da semana"). Você abre o app e as pautas já estão lá.
+**Rodar sozinho toda semana**: a tarefa agendada "Pautas da semana — Instagram Vanguard" roda toda segunda às 6h45 (horário de Brasília). Você recebe uma notificação no celular, abre a sessão e as pautas já estão lá; para produzir, responda "escreve a pauta N" ali mesmo. As pautas ficam salvas em `conteudos/pautas-AAAA-MM-DD.md`.
 
 ## Fase 2 — Transformar comentário em lead (você + 1 ferramenta, cerca de 2 horas)
 
