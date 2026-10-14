@@ -1,7 +1,7 @@
 # O que é um agente de IA, explicado com um armazém de grãos
 
 Pilar: IA na prática · Formato: reel (principal) + carrossel de 8 slides · CTA: AGENTE
-Pauta: 2026-10-14b-1 · Status: aguardando aprovação do Christian
+Pauta: 2026-10-14b-1 · Status: APROVADO pelo Christian em 13/10/2026 — aguardando agendamento
 
 ## Legenda do Instagram
 Todo mundo fala em "agente de IA". Pouca gente explica o que é. Então vou explicar do jeito que quem é do agro entende: com o recebimento de um armazém de grãos.
@@ -57,7 +57,7 @@ Qual rotina do seu escritório você colocaria primeiro na mão de um agente?
 
 ## Checklist de revisão
 - [ ] Revisar os termos do armazém (balança, classificador, amostra, umidade e impureza, secador, silo, romaneio) e trocar por como se fala na sua região, se for diferente
-- [ ] Trocar `@vanguard` pelo @ real em `carrossel/marca.json` e gerar o carrossel de novo
+- [x] @ real (@vanguard.mt.br) aplicado e carrossel gerado de novo
 - [ ] Reel: usar imagens de armazém próprias ou autorizadas; telas do computador sem dados reais de clientes ou do seu trabalho
 - [ ] Fontes: o conteúdo é explicativo e não usa números. A matéria da CNA que motivou a pauta ([link](https://cnabrasil.org.br/noticias/inteligencia-generativa-ja-chegou-ao-campo-mas-precisa-alcancar-mais-produtores)) não é citada no post
 - [ ] Os exemplos do slide 7 são aplicações possíveis, não projetos entregues. Se algum já foi feito por você, dá para virar case depois

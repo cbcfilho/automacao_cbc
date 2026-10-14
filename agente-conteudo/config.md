@@ -4,7 +4,7 @@ Itens marcados com [PREENCHER] dependem do Christian. Enquanto estiverem vazios,
 
 ## Empresa
 - Nome: Vanguard
-- Instagram: [PREENCHER: @ do perfil] — atualizar também em `carrossel/marca.json`
+- Instagram: @vanguard.mt.br (também em `carrossel/marca.json`)
 - Responsável / rosto da marca: Christian Borges da Costa
 - Site / WhatsApp / link da bio: [PREENCHER]
 - Cidade / região de atuação: [PREENCHER — ex.: Mato Grosso e todo o Brasil, atendimento remoto]
