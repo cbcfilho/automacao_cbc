@@ -1,0 +1,19 @@
+{
+  "nome": "VANGUARD",
+  "arroba": "@vanguard",
+  "slogan": "Software e IA para a gestão do agro",
+  "logo": "",
+  "fonte": "Inter",
+  "cores": {
+    "escuro": "#0B1F1A",
+    "escuro_2": "#143A2E",
+    "claro": "#F4F1E8",
+    "claro_2": "#E7E2D3",
+    "primaria": "#1F6B4F",
+    "destaque": "#C6F36B",
+    "texto_escuro": "#0B1F1A",
+    "texto_claro": "#F4F1E8",
+    "suave_escuro": "#9DB3AA",
+    "suave_claro": "#5B6B65"
+  }
+}

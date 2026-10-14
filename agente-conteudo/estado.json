@@ -1,0 +1,44 @@
+{
+  "ultima_pesquisa": "2026-10-13",
+  "pautas_sugeridas": [
+    {
+      "id": "2026-10-13-case-agente-email",
+      "titulo": "Um agente de IA que faz a triagem do e-mail do gestor toda manhã",
+      "pilar": "Cases e bastidores",
+      "formato": "carrossel + reel",
+      "status": "em_producao"
+    },
+    {
+      "id": "2026-10-13-ia-infra-agro",
+      "titulo": "A IA saiu do piloto e virou infraestrutura de gestão no agro",
+      "pilar": "Notícias e tendências",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-13-oito-em-dez",
+      "titulo": "Quase todo produtor já usa alguma ferramenta digital. O gargalo agora é a gestão",
+      "pilar": "Gestão no agro",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-13-ia-fragmentada",
+      "titulo": "Sua empresa tem IA. Mas as IAs conversam entre si?",
+      "pilar": "IA na prática",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-13-planilha-sinais",
+      "titulo": "5 sinais de que sua empresa do agro depende demais de planilha",
+      "pilar": "Gestão no agro",
+      "formato": "carrossel",
+      "status": "sugerida"
+    }
+  ],
+  "publicados": [],
+  "metricas_semanais": [],
+  "aprendizados": [],
+  "correcoes": []
+}
