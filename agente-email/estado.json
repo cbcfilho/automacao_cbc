@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-10-14T10:55:00Z",
+  "ultima_execucao": "2026-10-15T10:30:00Z",
   "itens_reportados": [
     {
       "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
@@ -53,6 +53,42 @@
       "id": "20 Pedidos de Compra automáticos FROTA (suporte@bdrmt.com.br, 14/10 ~01h)",
       "prioridade": "BAIXA",
       "data": "2026-10-14",
+      "status": "informativo"
+    },
+    {
+      "id": "SharePoint sem espaço: 7513 GB de 5959 GB em 15/10 00:07 (+~1050 GB em 1 dia)",
+      "prioridade": "ALTA",
+      "data": "2026-10-15",
+      "status": "aberto"
+    },
+    {
+      "id": "Phishing encaminhado por Gean Toniolli (14/10); Christian respondeu e pediu confirmação se abriu o link",
+      "prioridade": "ALTA",
+      "data": "2026-10-14",
+      "status": "aguardando Gean"
+    },
+    {
+      "id": "Contratação PJ (RH, Andrei) - Christian/Bernardo citados aguardando documentação",
+      "prioridade": "Assunto sensível",
+      "data": "2026-10-14",
+      "status": "ler diretamente"
+    },
+    {
+      "id": "Senior base legada: primeiro contato feito 14/10; Andrei cobra data prevista",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-14",
+      "status": "acompanhar"
+    },
+    {
+      "id": "Lattine boletos: Natália fez pedido 33872 com autorização do Christian (ENC a Rosana/Luan/Monica/Renato)",
+      "prioridade": "BAIXA",
+      "data": "2026-10-14",
+      "status": "informativo"
+    },
+    {
+      "id": "Construmanager relatório de atividades 14/10 (anexo não lido)",
+      "prioridade": "BAIXA",
+      "data": "2026-10-15",
       "status": "informativo"
     }
   ],
@@ -127,6 +163,13 @@
         "Christian decidir"
       ],
       "desde": "2026-10-14"
+    },
+    {
+      "assunto": "Gean Toniolli: confirmar se abriu o link de phishing (resposta de 14/10 17:41)",
+      "aguardando": [
+        "Gean Toniolli"
+      ],
+      "desde": "2026-10-14"
     }
   ],
   "correcoes": [
@@ -171,6 +214,7 @@
     "SharePoint sem espaço: alertas diários desde 06/10, uso subindo (6463 GB em 13/10).",
     "Execução de teste 14/10: conector Microsoft 365 funcionou (Outlook e agenda).",
     "Entra Connect: novo alerta em 14/10 09:12 (segue sem solução).",
-    "Execução 14/10 10:55Z: 22 e-mails novos (20 pedidos automáticos, 1 Entra Connect, 1 acesso SharePoint); sem críticas/altas novas; Enviados sem novidades desde 09/10; agenda: Reunião Mensal 14/10 08:30-17:30."
+    "Execução 14/10 10:55Z: 22 e-mails novos (20 pedidos automáticos, 1 Entra Connect, 1 acesso SharePoint); sem críticas/altas novas; Enviados sem novidades desde 09/10; agenda: Reunião Mensal 14/10 08:30-17:30.",
+    "Execução 15/10 10:30Z: conector M365 ok; 14 e-mails novos desde 14/10 10:55Z; agenda 15-17/10 vazia; SharePoint 7513/5959 GB (+1050 GB em 1 dia, investigar); Entra Connect sem alerta novo desde 14/10 09:12."
   ]
 }
