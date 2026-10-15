@@ -1,7 +1,7 @@
 # Meu agente de IA errou a prioridade. Foi assim que ele aprendeu.
 
 Pilar: Cases e bastidores · Formato: carrossel de 8 slides (principal) + reel opcional · CTA: AGENTE
-Pauta: 2026-10-14b-3 · Status: aguardando aprovação do Christian
+Pauta: 2026-10-14b-3 · Status: APROVADO pelo Christian em 15/10/2026 — aguardando agendamento
 
 Base: as duas correções reais gravadas na memória do agente de e-mail (`agente-email/estado.json`, 01/10/2026), contadas sem nomes, empresa, endereços de e-mail ou serviço.
 
@@ -49,7 +49,7 @@ Que exceção da sua operação nenhum sistema entende até hoje?
 4. "Quer um agente que aprende com a sua operação? Me manda AGENTE por DM." — figurinha de link para o WhatsApp
 
 ## Checklist de revisão
-- [ ] [CONFIRMAR] Ao aprovar este post, fica autorizado contar o agente de e-mail como case **anônimo**, sem empresa, pessoas, endereços ou prints reais. Isso vale também para o carrossel de 13/10, que ainda aguarda a mesma confirmação
+- [x] Autorizado em 15/10/2026: ao aprovar este post, ficou autorizado contar o agente de e-mail como case **anônimo**, sem empresa, pessoas, endereços ou prints reais. Isso vale também para o carrossel de 13/10, que ainda aguarda a mesma confirmação
 - [ ] Os dois exemplos são correções reais do agente (01/10/2026), sem nomes, caixas ou serviço identificados
 - [ ] Reel: usar só um painel de exemplo, com dados fictícios
 - [ ] Ordem sugerida: publicar antes o carrossel de 13/10 (apresenta o agente) e depois este (mostra como ele aprende)

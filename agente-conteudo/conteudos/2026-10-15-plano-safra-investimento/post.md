@@ -1,7 +1,7 @@
 # Plano Safra 2026/27: tem R$ 140,2 bi para investir. Sua empresa tem controle para usar bem?
 
 Pilar: Notícias e tendências · Formato: carrossel de 8 slides (principal) + reel opcional · CTA: DIAGNÓSTICO
-Pauta: 2026-10-14b-4 · Status: aguardando aprovação do Christian
+Pauta: 2026-10-14b-4 · Status: APROVADO pelo Christian em 15/10/2026 — aguardando agendamento
 
 ## Números usados (conferidos em fontes oficiais)
 - R$ 525,1 bi para a agricultura empresarial no Plano Safra 2026/27, lançado em 30/06/2026.

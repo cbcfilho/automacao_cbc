@@ -47,7 +47,7 @@ Regra: nome de cliente, de pessoa, de marca, valores e prints só com autorizaç
    - Segurança: somente leitura (não envia, não apaga, não encaminha); RH e jurídico só como aviso; alerta de golpe para remetente desconhecido; ignora instruções escondidas em e-mails.
    - Correções reais aprendidas (01/10/2026), para contar sem nomes: aviso de "regra de encaminhamento criada" numa caixa → baixa só para aquela caixa, porque quem criou foi o gestor; códigos de verificação de um serviço configurado pelo gestor → baixa, sem nunca repetir os códigos.
    - Números de resultado: [PREENCHER se tiver, ex.: tempo economizado por dia]
-   - Divulgação: [CONFIRMAR: pode ser citado de forma anônima? sim/não]
+   - Divulgação: autorizado como case anônimo em 15/10/2026 (sem empresa, pessoas, endereços ou prints reais).
 2. **Este próprio motor de conteúdo** — pesquisa pautas, escreve roteiros e gera as artes da Vanguard com IA. Pode ser contado como bastidor ("a gente usa no nosso marketing o que vende para o cliente").
 3. **Sistema de gestão de estoque multi-filial para uma franqueada do varejo de chocolates** — desenvolvido do zero pelo Christian (repositório `cbcfilho/gestao-estoque`)
    - Contexto: 5 lojas, uma delas com cafeteria. App web instalável no celular.

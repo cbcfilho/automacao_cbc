@@ -1,7 +1,7 @@
 # Case: agente de IA que faz a triagem do e-mail do gestor
 
 Pilar: Cases e bastidores · Formato: carrossel (7 slides) + reel · CTA: AGENTE
-Status: aguardando aprovação do Christian
+Status: aguardando aprovação do Christian (divulgação anônima já autorizada em 15/10/2026)
 
 ## Legenda do Instagram
 Todo gestor conhece a cena: a caixa de e-mail lotada, um pedido importante perdido no meio de propaganda e aquela cobrança que você mandou e ninguém respondeu.
@@ -53,8 +53,8 @@ Se a sua empresa tem uma rotina assim, me chama. Gosto de começar pelo processo
 4. "Quer um desses? Me manda AGENTE por DM." — figurinha de link para o WhatsApp
 
 ## Checklist de revisão
-- [ ] [CONFIRMAR] O agente de e-mail pode ser divulgado como case anônimo? (ele foi criado para a caixa do seu trabalho — não citar empresa, pessoas nem prints reais)
-- [ ] Trocar `@vanguard` pelo @ real em `carrossel/marca.json` e gerar o carrossel de novo
+- [x] Divulgação como case anônimo autorizada em 15/10/2026 (não citar empresa, pessoas nem prints reais)
+- [x] @vanguard.mt.br, logo e cores da Vanguard aplicados
 - [ ] Se tiver um número real (ex.: minutos economizados por dia), incluir no slide 2 e na legenda
 - [ ] Painel do reel: montar com dados fictícios, nunca com e-mails reais
 - Fontes externas: nenhuma (conteúdo baseado no projeto próprio)
