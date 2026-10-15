@@ -108,6 +108,34 @@
       "pilar": "Quem faz",
       "formato": "reel",
       "status": "sugerida"
+    },
+    {
+      "id": "2026-10-15p-1",
+      "titulo": "Inventário com contagem cega: por que quem conta não pode ver o saldo",
+      "pilar": "Cases e bastidores",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-15p-2",
+      "titulo": "Saiu da loja A, não chegou na loja B: onde o estoque some entre filiais",
+      "pilar": "Gestão na prática",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-15p-3",
+      "titulo": "Orçado × realizado: o relatório que todo dono deveria ver toda semana",
+      "pilar": "Gestão na prática",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-15p-4",
+      "titulo": "Sou contador e programador. Isso muda o jeito de fazer software",
+      "pilar": "Quem faz",
+      "formato": "reel",
+      "status": "sugerida"
     }
   ],
   "publicados": [],
@@ -117,6 +145,10 @@
     {
       "regra": "Identidade visual: usar a logo da Vanguard (carrossel/logo.png) e as cores tiradas dela (azul-marinho e ciano), no lugar da paleta verde provisória.",
       "data": "2026-10-13"
+    },
+    {
+      "regra": "Posicionamento: não falar só de agro. A Vanguard atende qualquer setor (varejo e franquias, indústria, serviços); equilibrar as pautas (cerca de metade agro, metade outros setores ou gestão geral) e usar a formação do Christian em contabilidade/controladoria + computação como diferencial.",
+      "data": "2026-10-15"
     }
   ]
 }
