@@ -1,0 +1,73 @@
+{
+  "slug": "2026-10-15-plano-safra-investimento",
+  "pilar": "Notícias e tendências",
+  "legenda": "O Plano Safra 2026/27 reservou R$ 140,2 bilhões só para investimento: armazenagem, irrigação, inovação tecnológica e máquinas. Segundo o Ministério da Agricultura, é cerca de 38% a mais que na safra passada.\n\nCrédito para investir existe. A pergunta é outra: sua empresa tem controle para usar bem?\n\nQuem toma crédito de investimento assume um compromisso de anos. São parcelas, carência, prazos e a comprovação do uso do recurso. Sem controle, o investimento que era para dar retorno vira mais uma conta para administrar.\n\nAntes de investir, vale ter na mão o custo real de hoje, o orçamento do projeto item por item e o cronograma das parcelas. Depois que o dinheiro sai, acompanhar o orçado contra o realizado, os vencimentos e o retorno: o armazém já está se pagando?\n\nA Vanguard não concede crédito nem faz projeto bancário. A gente organiza a informação para você decidir e acompanhar.\n\nVai investir nesta safra? Comente DIAGNÓSTICO.\n\nFonte: Ministério da Agricultura e Pecuária, anúncio do Plano Safra 2026/27 (30/06/2026).",
+  "hashtags": ["#planosafra", "#agronegocio", "#creditorural", "#gestaorural", "#armazenagem", "#gestaoempresarial", "#vanguard"],
+  "slides": [
+    {
+      "tipo": "capa",
+      "etiqueta": "Plano Safra 26/27",
+      "titulo": "Tem *R$ 140,2 bilhões* para investir no agro. Sua empresa tem controle para usar bem?",
+      "subtitulo": "O que o crédito de investimento pede de quem vai usar."
+    },
+    {
+      "tipo": "numero",
+      "tema": "claro",
+      "numero": "R$ 140,2 bi",
+      "texto": "para investimento no Plano Safra 2026/27: armazenagem, irrigação, inovação tecnológica e máquinas.\n\nCerca de *38% a mais* que na safra passada, dentro de R$ 525,1 bi para a agricultura empresarial.",
+      "fonte": "Ministério da Agricultura e Pecuária, 30/06/2026"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Crédito para investir existe. *E o controle?*",
+      "texto": "Quem toma crédito de investimento assume um compromisso de anos: parcelas, carência, prazos e a comprovação do uso do recurso.\n\nSem controle, o investimento que era para dar retorno vira mais uma conta para administrar."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "O que ter *na mão* antes de investir",
+      "itens": [
+        "O custo real de hoje: produzir, armazenar e transportar",
+        "O orçamento do projeto, item por item",
+        "O cronograma de parcelas e carência",
+        "As notas e documentos para comprovar o uso do recurso"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Depois que o dinheiro sai, *acompanhe*",
+      "itens": [
+        "Orçado × realizado em cada etapa da obra ou da compra",
+        "Vencimento das parcelas, com aviso antes",
+        "O retorno: o investimento está entregando o que prometeu?"
+      ]
+    },
+    {
+      "tipo": "antes_depois",
+      "titulo": "Do improviso ao *controle*",
+      "rotulo_antes": "No improviso",
+      "rotulo_depois": "Com um painel sob medida",
+      "antes": [
+        "Planilha de um, e-mail do outro, nota na gaveta",
+        "Parcela lembrada quando o banco liga",
+        "Ninguém sabe se o armazém já se pagou"
+      ],
+      "depois": [
+        "Projeto, notas e parcelas num lugar só",
+        "Aviso antes de cada vencimento",
+        "Retorno do investimento acompanhado mês a mês"
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Onde a Vanguard *entra*",
+      "texto": "A gente não concede crédito nem faz projeto bancário.\n\nA gente organiza a informação: um painel que junta custo, notas, parcelas e retorno do investimento, do jeito que a sua operação funciona.",
+      "destaque": "Investir bem é *saber, mês a mês*, se está valendo a pena."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Vai investir *nesta safra*?",
+      "texto": "Te mostro como organizar o controle antes de o dinheiro sair.",
+      "palavra": "DIAGNÓSTICO"
+    }
+  ]
+}

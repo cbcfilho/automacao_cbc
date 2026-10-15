@@ -222,6 +222,16 @@ function htmlSlide(s, i, total, marca, pilar, logo) {
 // Parte da fonte máxima do CSS e reduz até o conteúdo caber no slide.
 async function ajustarTexto(page) {
   return page.evaluate(() => {
+    // Número grande: reduz até caber na largura, numa linha só.
+    const grande = document.querySelector('.grande');
+    if (grande) {
+      grande.style.whiteSpace = 'nowrap';
+      let g = parseFloat(getComputedStyle(grande).fontSize);
+      while (grande.scrollWidth > grande.clientWidth && g > 40) {
+        g -= 2;
+        grande.style.fontSize = `${g}px`;
+      }
+    }
     const corpo = document.querySelector('.corpo');
     const maximo = parseFloat(getComputedStyle(corpo).fontSize);
     let tamanho = maximo;
