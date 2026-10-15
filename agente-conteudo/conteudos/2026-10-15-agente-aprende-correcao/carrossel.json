@@ -1,0 +1,72 @@
+{
+  "slug": "2026-10-15-agente-aprende-correcao",
+  "pilar": "Cases e bastidores",
+  "legenda": "Meu agente de IA errou a prioridade de um e-mail. E foi justamente aí que ele ficou melhor.\n\nToda manhã ele faz a triagem da caixa de um gestor e monta um painel do que é urgente. Um dia, marcou como alerta de segurança um aviso de “regra de encaminhamento criada”. Só que quem tinha criado a regra era o próprio gestor.\n\nA correção foi uma frase: “Esse aviso, nessa caixa, fui eu. Trate como baixa. Nas outras caixas, continue alertando.” O agente guardou a regra na memória e, na execução seguinte, ela já valia — só para aquela caixa.\n\nÉ isso que um sistema de prateleira não faz: aprender as exceções da sua operação com quem conhece a operação.\n\nQuer um agente que aprende com o seu jeito de trabalhar? Comente AGENTE.",
+  "hashtags": [
+    "#inteligenciaartificial",
+    "#agentesdeia",
+    "#automacao",
+    "#gestaoempresarial",
+    "#agronegocio",
+    "#segurancadainformacao",
+    "#bastidores",
+    "#vanguard"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "etiqueta": "Caso real",
+      "titulo": "Meu agente de IA *errou a prioridade*. Foi assim que ele aprendeu.",
+      "subtitulo": "Um caso real, sem nomes."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "O que *aconteceu*",
+      "texto": "Toda manhã, o agente faz a triagem dos e-mails de um gestor e monta um painel de prioridades.\n\nUm dia, marcou como alerta de segurança um aviso de “regra de encaminhamento criada” numa caixa de e-mail."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Só que quem criou a regra *foi o próprio gestor*",
+      "texto": "O agente agiu certo: na dúvida, segurança vem primeiro.\n\nMas, para quem conhecia o contexto, aquele alerta era só barulho no painel.",
+      "destaque": "Errar por excesso de cuidado é *o erro certo* para um agente."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "A correção, em *uma frase*",
+      "texto": "“Esse aviso, nessa caixa, fui eu. Trate como baixa. Nas outras caixas, continue alertando.”\n\nO agente guardou a regra na memória, com a data e o motivo.",
+      "destaque": "Repare: a regra vale *só para aquela caixa*. Nas outras, o alerta continua."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Como a memória *funciona*",
+      "itens": [
+        "O gestor corrige em linguagem normal",
+        "O agente grava a regra, com data e motivo",
+        "Na execução seguinte, a regra já vale",
+        "Mudou alguma coisa? É só corrigir de novo"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Outra correção *real*",
+      "itens": [
+        "Situação: e-mails com código de verificação de um serviço que o gestor mesmo configurou",
+        "Correção: prioridade baixa",
+        "Regra extra: nunca repetir os códigos no painel"
+      ],
+      "destaque": "Cada correção deixa o agente *mais parecido* com o jeito de trabalhar do gestor."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Por que isso importa para *a sua empresa*",
+      "texto": "Nenhum sistema de prateleira conhece as exceções da sua operação.\n\nUm agente sob medida aprende com quem conhece: você.",
+      "destaque": "Ele não precisa acertar tudo no primeiro dia. Precisa *aprender do jeito certo*."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Quer um agente que aprende com *a sua operação*?",
+      "texto": "Comece pela rotina que mais toma tempo do seu escritório.",
+      "palavra": "AGENTE"
+    }
+  ]
+}

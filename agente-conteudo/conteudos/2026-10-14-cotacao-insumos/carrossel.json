@@ -1,0 +1,78 @@
+{
+  "slug": "2026-10-14-cotacao-insumos",
+  "pilar": "Gestão no agro",
+  "legenda": "Quantas cotações da última compra de insumo você consegue comparar agora, sem procurar no celular de ninguém?\n\nNa maioria dos escritórios do agro, a cotação mora em lugares diferentes: áudio e foto de orçamento no WhatsApp, PDF no e-mail de quem pediu, valor anotado no caderno e aquilo que foi combinado por telefone.\n\nE comparar só o preço engana. Uma proposta vem por saco, outra por tonelada. Uma tem frete incluso, a outra não. Uma é à vista, a outra para pagar na safra. Sem colocar tudo na mesma base, o mais barato pode sair mais caro.\n\nUm agente de IA resolve a parte chata: lê as propostas que chegam, tira produto, preço, frete, prazo e validade, converte para a mesma unidade e monta a comparação lado a lado. Ainda avisa o que está vencendo e guarda o histórico da última compra.\n\nQuem negocia e fecha o pedido continua sendo você.\n\nQuer ver como ficaria na sua operação? Comente COTAÇÃO.",
+  "hashtags": ["#agronegocio", "#gestaorural", "#comprasagro", "#insumos", "#gestaoempresarial", "#automacao", "#inteligenciaartificial", "#vanguard"],
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "Quantas cotações da última compra você *consegue comparar* hoje?",
+      "subtitulo": "Se a resposta é \"está no WhatsApp de alguém\", este post é para você."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Onde a cotação *mora* hoje",
+      "itens": [
+        "Áudio e foto de orçamento no WhatsApp",
+        "PDF perdido no e-mail de quem pediu",
+        "Valor anotado no caderno ou numa planilha solta",
+        "O que foi combinado por telefone"
+      ],
+      "destaque": "Na hora de decidir, *ninguém vê tudo junto*."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Comparar só o preço *engana*",
+      "texto": "Uma proposta vem por saco, outra por tonelada. Uma tem frete incluso, a outra não. Uma é à vista, a outra para pagar na safra.\n\nSem colocar tudo na mesma base, o mais barato pode sair mais caro."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "O custo de *comprar no escuro*",
+      "itens": [
+        "Fecha com quem respondeu primeiro, não com a melhor proposta",
+        "A proposta vence e ninguém percebe",
+        "Ninguém sabe quanto pagou na última compra",
+        "Tudo depende de uma pessoa lembrar"
+      ]
+    },
+    {
+      "tipo": "antes_depois",
+      "titulo": "Com um *painel de cotações*",
+      "rotulo_antes": "Hoje",
+      "rotulo_depois": "Com a automação",
+      "antes": [
+        "Propostas espalhadas no WhatsApp e no e-mail",
+        "Cada uma numa unidade e num prazo",
+        "Ninguém avisa quando a proposta vence"
+      ],
+      "depois": [
+        "Todas as propostas num lugar só",
+        "Preço na mesma base, com frete e prazo",
+        "Aviso do que falta e do que está vencendo"
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Como funciona *na prática*",
+      "itens": [
+        "O agente lê as propostas: e-mail, PDF ou foto",
+        "Tira produto, quantidade, preço, frete, prazo e validade",
+        "Converte tudo para a mesma unidade",
+        "Monta a comparação lado a lado",
+        "Você decide e aprova a compra"
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Quem decide *continua sendo você*",
+      "texto": "O agente não fecha pedido nem negocia com fornecedor. Ele organiza, compara e avisa.\n\nE guarda o histórico: na próxima compra, você sabe quanto pagou da última vez.",
+      "destaque": "Comprar bem é comparar tudo *na mesma base*."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Quanto tempo sua equipe gasta *juntando cotação*?",
+      "texto": "Te mostro como ficaria um painel de cotações na sua operação.",
+      "palavra": "COTAÇÃO"
+    }
+  ]
+}
