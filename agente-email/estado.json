@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-10-15T10:30:00Z",
+  "ultima_execucao": "2026-10-16T10:55:00Z",
   "itens_reportados": [
     {
       "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
@@ -90,6 +90,48 @@
       "prioridade": "BAIXA",
       "data": "2026-10-15",
       "status": "informativo"
+    },
+    {
+      "id": "SharePoint sem espaço: 7523 GB de 5959 GB em 16/10 00:18 (+~10 GB/dia vs 15/10)",
+      "prioridade": "ALTA",
+      "data": "2026-10-16",
+      "status": "aberto"
+    },
+    {
+      "id": "Chamado Microsoft TrackingID#2610140040006863 (mover arquivos SharePoint) via LBR: LBR informa 'estamos parados' e cobra previsão (15/10)",
+      "prioridade": "ALTA",
+      "data": "2026-10-15",
+      "status": "aguardando Microsoft"
+    },
+    {
+      "id": "Senior projeto 230752: Andrei designou Christian responsável; Christian respondeu 15/10 20:08 à Ana Pickler (ambientes [CONFIRMAR])",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-15",
+      "status": "aguardando Senior"
+    },
+    {
+      "id": "Gean Toniolli confirmou 15/10 que NÃO abriu o link de phishing",
+      "prioridade": "BAIXA",
+      "data": "2026-10-15",
+      "status": "resolvido"
+    },
+    {
+      "id": "SharePoint: Morgana Moura pediu acesso ao site Engenharia-OLD (15/10 21:27)",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-15",
+      "status": "aberto"
+    },
+    {
+      "id": "Ata Reunião Mensal 14/10 e comunicado aditivo obra 729 (informativos)",
+      "prioridade": "BAIXA",
+      "data": "2026-10-15",
+      "status": "informativo"
+    },
+    {
+      "id": "Qive: 4 notas canceladas ontem; Construmanager relatório 15/10 (anexo não lido)",
+      "prioridade": "BAIXA",
+      "data": "2026-10-16",
+      "status": "informativo"
     }
   ],
   "pendencias": [
@@ -165,9 +207,16 @@
       "desde": "2026-10-14"
     },
     {
-      "assunto": "Gean Toniolli: confirmar se abriu o link de phishing (resposta de 14/10 17:41)",
+      "assunto": "SharePoint: Morgana Jesus Moura pediu acesso ao site Engenharia-OLD (15/10)",
       "aguardando": [
-        "Gean Toniolli"
+        "Christian decidir"
+      ],
+      "desde": "2026-10-15"
+    },
+    {
+      "assunto": "Chamado Microsoft 2610140040006863 (SharePoint mover arquivos): sem previsão",
+      "aguardando": [
+        "Microsoft / LBR"
       ],
       "desde": "2026-10-14"
     }
@@ -207,6 +256,14 @@
       ],
       "desde": "2026-09-30",
       "resolvido_em": "2026-10-02"
+    },
+    {
+      "assunto": "Phishing Gean Toniolli",
+      "aguardando": [
+        "Gean"
+      ],
+      "desde": "2026-10-14",
+      "resolvido_em": "2026-10-15"
     }
   ],
   "observacoes": [
@@ -215,6 +272,7 @@
     "Execução de teste 14/10: conector Microsoft 365 funcionou (Outlook e agenda).",
     "Entra Connect: novo alerta em 14/10 09:12 (segue sem solução).",
     "Execução 14/10 10:55Z: 22 e-mails novos (20 pedidos automáticos, 1 Entra Connect, 1 acesso SharePoint); sem críticas/altas novas; Enviados sem novidades desde 09/10; agenda: Reunião Mensal 14/10 08:30-17:30.",
-    "Execução 15/10 10:30Z: conector M365 ok; 14 e-mails novos desde 14/10 10:55Z; agenda 15-17/10 vazia; SharePoint 7513/5959 GB (+1050 GB em 1 dia, investigar); Entra Connect sem alerta novo desde 14/10 09:12."
+    "Execução 15/10 10:30Z: conector M365 ok; 14 e-mails novos desde 14/10 10:55Z; agenda 15-17/10 vazia; SharePoint 7513/5959 GB (+1050 GB em 1 dia, investigar); Entra Connect sem alerta novo desde 14/10 09:12.",
+    "Execução 16/10 10:55Z: conector M365 ok; 15 e-mails novos; agenda hoje: Apresentação BDRH 07:15-07:45 (aceita); Entra Connect alerta 15/10 15:51 (segue); Enviados: Christian respondeu Senior 15/10 e aceitou BDRH."
   ]
 }
