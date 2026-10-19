@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-10-16T10:55:00Z",
+  "ultima_execucao": "2026-10-19T10:55:00Z",
   "itens_reportados": [
     {
       "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
@@ -132,6 +132,36 @@
       "prioridade": "BAIXA",
       "data": "2026-10-16",
       "status": "informativo"
+    },
+    {
+      "id": "SharePoint sem espaço: 7283 GB (18/10) e 7281 GB (19/10 00:50) de 5959 GB; queda vs 7523 GB em 16/10",
+      "prioridade": "ALTA",
+      "data": "2026-10-19",
+      "status": "aberto"
+    },
+    {
+      "id": "Boleto Senior/DIPAGRO (23849) 'Títulos vencendo hoje' 16/10: multa por encerramento de contrato; link do boleto com erro, Financeiro pede à cobranca@senior reenviar; Monica questiona continuar pagando o sistema (Christian em cópia)",
+      "prioridade": "ALTA",
+      "data": "2026-10-16",
+      "status": "aberto"
+    },
+    {
+      "id": "Reunião Claro 'Construart - Urgente' (GPU as a Service/links) 19/10 08:00-08:30 hora local, aceita por Christian; ele enviou endereços para avaliação de links em 16/10",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-19",
+      "status": "agenda"
+    },
+    {
+      "id": "Entra Connect alertas 16/10 22:37 e 18/10 05:21",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-18",
+      "status": "aberto"
+    },
+    {
+      "id": "Informativos: Construmanager (16-18/10, sem atividade; envio será suspenso), Qive notas canceladas 17/10, newsletters",
+      "prioridade": "BAIXA",
+      "data": "2026-10-19",
+      "status": "informativo"
     }
   ],
   "pendencias": [
@@ -219,6 +249,14 @@
         "Microsoft / LBR"
       ],
       "desde": "2026-10-14"
+    },
+    {
+      "assunto": "Boleto Senior/DIPAGRO (multa de encerramento): Financeiro aguarda boleto da Senior; Monica pergunta se continuam pagando",
+      "aguardando": [
+        "Senior (cobranca@senior.com.br)",
+        "Financeiro/Luan"
+      ],
+      "desde": "2026-10-16"
     }
   ],
   "correcoes": [
@@ -273,6 +311,7 @@
     "Entra Connect: novo alerta em 14/10 09:12 (segue sem solução).",
     "Execução 14/10 10:55Z: 22 e-mails novos (20 pedidos automáticos, 1 Entra Connect, 1 acesso SharePoint); sem críticas/altas novas; Enviados sem novidades desde 09/10; agenda: Reunião Mensal 14/10 08:30-17:30.",
     "Execução 15/10 10:30Z: conector M365 ok; 14 e-mails novos desde 14/10 10:55Z; agenda 15-17/10 vazia; SharePoint 7513/5959 GB (+1050 GB em 1 dia, investigar); Entra Connect sem alerta novo desde 14/10 09:12.",
-    "Execução 16/10 10:55Z: conector M365 ok; 15 e-mails novos; agenda hoje: Apresentação BDRH 07:15-07:45 (aceita); Entra Connect alerta 15/10 15:51 (segue); Enviados: Christian respondeu Senior 15/10 e aceitou BDRH."
+    "Execução 16/10 10:55Z: conector M365 ok; 15 e-mails novos; agenda hoje: Apresentação BDRH 07:15-07:45 (aceita); Entra Connect alerta 15/10 15:51 (segue); Enviados: Christian respondeu Senior 15/10 e aceitou BDRH.",
+    "Execução 19/10 10:55Z: conector M365 ok; ~19 e-mails novos desde 16/10; Enviados: Christian respondeu Claro 16/10 21:15 e enviou ENCs ao Lucas Souza; agenda hoje: Claro 08:00 (local); Entra Connect segue; SharePoint 7281 GB."
   ]
 }
