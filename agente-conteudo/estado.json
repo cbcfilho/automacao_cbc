@@ -1,5 +1,5 @@
 {
-  "ultima_pesquisa": "2026-10-14",
+  "ultima_pesquisa": "2026-10-19",
   "pautas_sugeridas": [
     {
       "id": "2026-10-13-case-agente-email",
@@ -135,6 +135,41 @@
     {
       "id": "2026-10-15p-4",
       "titulo": "Sou contador e programador. Isso muda o jeito de fazer software",
+      "pilar": "Quem faz",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-19-1",
+      "titulo": "Quase metade do crédito do agro virou CPR. Quem controla os vencimentos?",
+      "pilar": "Notícias e tendências",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-19-2",
+      "titulo": "Sua empresa usa IA. Mas já tem um agente trabalhando por ela?",
+      "pilar": "IA na prática",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-19-3",
+      "titulo": "Black Friday em 27/11: seu estoque por loja aguenta?",
+      "pilar": "Gestão na prática",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-19-4",
+      "titulo": "Contagem sem internet: como o depósito sem sinal não perde nenhuma leitura",
+      "pilar": "Cases e bastidores",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-19-5",
+      "titulo": "Sou contador. Antes de contratar agente de IA, eu olho o custo por uso",
       "pilar": "Quem faz",
       "formato": "reel",
       "status": "sugerida"
