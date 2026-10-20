@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-10-19T10:55:00Z",
+  "ultima_execucao": "2026-10-20T10:55:00Z",
   "itens_reportados": [
     {
       "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
@@ -162,6 +162,42 @@
       "prioridade": "BAIXA",
       "data": "2026-10-19",
       "status": "informativo"
+    },
+    {
+      "id": "SharePoint sem espaço: 7286,65 GB de 5959 GB em 20/10 02:47 (estável vs 7281 GB em 19/10)",
+      "prioridade": "ALTA",
+      "data": "2026-10-20",
+      "status": "aberto"
+    },
+    {
+      "id": "Boleto Senior/DIPAGRO (23849): Senior esclareceu 19/10 que é multa rescisória sem NF; Leticia (Financeiro) enviou comprovante de pagamento 19/10 17h",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-19",
+      "status": "pago - comprovante enviado"
+    },
+    {
+      "id": "Senior projeto 230752: Ana Pickler alocou consultor Alexandre Pereira; Vinicius Gabriel (consultor) pede horário amanhã (20/10) para alinhar; Christian respondeu 19/10 15:41 colocando-se à disposição",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-19",
+      "status": "aberto - definir horário"
+    },
+    {
+      "id": "Contratação PJ (RH, Andrei) - nova mensagem 19/10 21:54",
+      "prioridade": "Assunto sensível",
+      "data": "2026-10-19",
+      "status": "ler diretamente"
+    },
+    {
+      "id": "Chamado Sigma SUP339579 (O365, LBR/TD Synnex): LBR vai analisar resposta da TD Synnex (19/10)",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-19",
+      "status": "aguardando LBR/Microsoft"
+    },
+    {
+      "id": "Informativos: StartWork rastreio NF 495342/515113 (previsão 04/11), Entra Connect 19/10 12:05, GFX consultoria IBS/CBS (prospecção), login Claude diretoria",
+      "prioridade": "BAIXA",
+      "data": "2026-10-19",
+      "status": "informativo"
     }
   ],
   "pendencias": [
@@ -251,7 +287,7 @@
       "desde": "2026-10-14"
     },
     {
-      "assunto": "Boleto Senior/DIPAGRO (multa de encerramento): Financeiro aguarda boleto da Senior; Monica pergunta se continuam pagando",
+      "assunto": "Boleto Senior/DIPAGRO (multa de encerramento): Financeiro aguarda boleto da Senior; Monica pergunta se continuam pagando - ATUALIZAÇÃO 19/10: comprovante de pagamento enviado pelo Financeiro",
       "aguardando": [
         "Senior (cobranca@senior.com.br)",
         "Financeiro/Luan"
@@ -312,6 +348,7 @@
     "Execução 14/10 10:55Z: 22 e-mails novos (20 pedidos automáticos, 1 Entra Connect, 1 acesso SharePoint); sem críticas/altas novas; Enviados sem novidades desde 09/10; agenda: Reunião Mensal 14/10 08:30-17:30.",
     "Execução 15/10 10:30Z: conector M365 ok; 14 e-mails novos desde 14/10 10:55Z; agenda 15-17/10 vazia; SharePoint 7513/5959 GB (+1050 GB em 1 dia, investigar); Entra Connect sem alerta novo desde 14/10 09:12.",
     "Execução 16/10 10:55Z: conector M365 ok; 15 e-mails novos; agenda hoje: Apresentação BDRH 07:15-07:45 (aceita); Entra Connect alerta 15/10 15:51 (segue); Enviados: Christian respondeu Senior 15/10 e aceitou BDRH.",
-    "Execução 19/10 10:55Z: conector M365 ok; ~19 e-mails novos desde 16/10; Enviados: Christian respondeu Claro 16/10 21:15 e enviou ENCs ao Lucas Souza; agenda hoje: Claro 08:00 (local); Entra Connect segue; SharePoint 7281 GB."
+    "Execução 19/10 10:55Z: conector M365 ok; ~19 e-mails novos desde 16/10; Enviados: Christian respondeu Claro 16/10 21:15 e enviou ENCs ao Lucas Souza; agenda hoje: Claro 08:00 (local); Entra Connect segue; SharePoint 7281 GB.",
+    "Execução 20/10 10:55Z: conector M365 ok; 13 e-mails novos no Inbox desde 19/10 10:55Z, 3 enviados; agenda 20-22/10 vazia; sem críticas; SharePoint 7286 GB; Entra Connect alerta 19/10 12:05; Senior boleto pago."
   ]
 }
