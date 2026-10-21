@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-10-20T10:55:00Z",
+  "ultima_execucao": "2026-10-21T10:55:00Z",
   "itens_reportados": [
     {
       "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
@@ -198,6 +198,42 @@
       "prioridade": "BAIXA",
       "data": "2026-10-19",
       "status": "informativo"
+    },
+    {
+      "id": "SharePoint sem espaço: 7314 GB de 5959 GB em 21/10 03:12 (+~28 GB vs 20/10)",
+      "prioridade": "ALTA",
+      "data": "2026-10-21",
+      "status": "aberto"
+    },
+    {
+      "id": "Senior projeto 230752: reunião com consultor Vinicius Gabriel hoje 20/10 15h combinada (Christian aceitou convite)",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-20",
+      "status": "agendado"
+    },
+    {
+      "id": "Pablo Pelle (Controller) ENC 'Ajuste de Licenças Contratadas - Grupo BWP': contrato implantação SAP Armazém em anexo (não lido); Christian em cópia com William Pedro e Amanda Conti",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-20",
+      "status": "aberto - conferir anexo"
+    },
+    {
+      "id": "Compras: programação de pagamento SCALCON TECNOLOGIA, serviço agendado 26/10, Christian citado (PSC) (anexo não lido)",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-20",
+      "status": "aberto - confirmar"
+    },
+    {
+      "id": "SharePoint RH: pedidos de acesso a 'EFETIVO GERAL - MOBILIZAÇÃO.xlsm' (Erika Macedo, Carlos Botelho, Adeilma Silva, Menor Aprendiz RH) e site RH (Erika)",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-20",
+      "status": "aberto"
+    },
+    {
+      "id": "Meta Corporativa Segurança/TI/CD 07/2026 (Samuel) e Entra Connect 20/10 18:46; Construmanager 20/10 (anexo não lido); marketing it4us/Fortinet/SoftExpert",
+      "prioridade": "BAIXA",
+      "data": "2026-10-21",
+      "status": "informativo"
     }
   ],
   "pendencias": [
@@ -349,6 +385,7 @@
     "Execução 15/10 10:30Z: conector M365 ok; 14 e-mails novos desde 14/10 10:55Z; agenda 15-17/10 vazia; SharePoint 7513/5959 GB (+1050 GB em 1 dia, investigar); Entra Connect sem alerta novo desde 14/10 09:12.",
     "Execução 16/10 10:55Z: conector M365 ok; 15 e-mails novos; agenda hoje: Apresentação BDRH 07:15-07:45 (aceita); Entra Connect alerta 15/10 15:51 (segue); Enviados: Christian respondeu Senior 15/10 e aceitou BDRH.",
     "Execução 19/10 10:55Z: conector M365 ok; ~19 e-mails novos desde 16/10; Enviados: Christian respondeu Claro 16/10 21:15 e enviou ENCs ao Lucas Souza; agenda hoje: Claro 08:00 (local); Entra Connect segue; SharePoint 7281 GB.",
-    "Execução 20/10 10:55Z: conector M365 ok; 13 e-mails novos no Inbox desde 19/10 10:55Z, 3 enviados; agenda 20-22/10 vazia; sem críticas; SharePoint 7286 GB; Entra Connect alerta 19/10 12:05; Senior boleto pago."
+    "Execução 20/10 10:55Z: conector M365 ok; 13 e-mails novos no Inbox desde 19/10 10:55Z, 3 enviados; agenda 20-22/10 vazia; sem críticas; SharePoint 7286 GB; Entra Connect alerta 19/10 12:05; Senior boleto pago.",
+    "Execução 21/10: conector M365 ok; 17 e-mails novos no Inbox desde 20/10 10:55Z, 6 enviados desde 19/10; agenda 21-23/10 vazia (busca sem retorno); sem críticas; SharePoint 7314 GB; Entra Connect alerta 20/10 18:46."
   ]
 }
