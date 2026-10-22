@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-10-21T10:55:00Z",
+  "ultima_execucao": "2026-10-22T10:55:00Z",
   "itens_reportados": [
     {
       "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
@@ -234,6 +234,36 @@
       "prioridade": "BAIXA",
       "data": "2026-10-21",
       "status": "informativo"
+    },
+    {
+      "id": "SharePoint sem espaço: 7327,74 GB de 5959 GB em 22/10 03:25 (+~13 GB vs 21/10)",
+      "prioridade": "ALTA",
+      "data": "2026-10-22",
+      "status": "aberto"
+    },
+    {
+      "id": "Obra 733 Querência: Roni Andrade (Supervisor Adm.) pede NOVAMENTE acesso ao Sienge da obra para ver processos/anexos (22/10 07:37; TI, Bernardo, Silvio, Fernando em cópia)",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-22",
+      "status": "aberto - decidir acesso"
+    },
+    {
+      "id": "Senior projeto 230752: Vinicius Gabriel perguntou 21/10 'como está a criação do ambiente?'; Christian enviou dados de acesso remoto em 21/10 20:08 (credenciais em texto no e-mail; recomendar trocar a senha)",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-21",
+      "status": "aguardando Senior; segurança"
+    },
+    {
+      "id": "Pablo Pelle/Liberali SAP Armazém: Christian respondeu 21/10 19:41 com análise da proposta; Claro 'Alinhamento OCI' aceito 21/10",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-21",
+      "status": "aguardando retorno"
+    },
+    {
+      "id": "Natália: adiantamento título 270889 pedido 41801 (Creative Cópias), pagar até 21/10; Lembretes NF PJ (financeiro) 21 e 22/10; Entra Connect 22/10 01:28; pedidos acesso SharePoint EFETIVO GERAL (Fabiola, Erica, Magno); EPI obra 735; Construmanager 21/10 (envio suspenso); newsletters",
+      "prioridade": "BAIXA",
+      "data": "2026-10-22",
+      "status": "informativo"
     }
   ],
   "pendencias": [
@@ -329,6 +359,13 @@
         "Financeiro/Luan"
       ],
       "desde": "2026-10-16"
+    },
+    {
+      "assunto": "Obra 733: acesso ao Sienge solicitado por Roni Andrade (22/10)",
+      "aguardando": [
+        "Christian decidir/TI"
+      ],
+      "desde": "2026-10-22"
     }
   ],
   "correcoes": [
@@ -386,6 +423,7 @@
     "Execução 16/10 10:55Z: conector M365 ok; 15 e-mails novos; agenda hoje: Apresentação BDRH 07:15-07:45 (aceita); Entra Connect alerta 15/10 15:51 (segue); Enviados: Christian respondeu Senior 15/10 e aceitou BDRH.",
     "Execução 19/10 10:55Z: conector M365 ok; ~19 e-mails novos desde 16/10; Enviados: Christian respondeu Claro 16/10 21:15 e enviou ENCs ao Lucas Souza; agenda hoje: Claro 08:00 (local); Entra Connect segue; SharePoint 7281 GB.",
     "Execução 20/10 10:55Z: conector M365 ok; 13 e-mails novos no Inbox desde 19/10 10:55Z, 3 enviados; agenda 20-22/10 vazia; sem críticas; SharePoint 7286 GB; Entra Connect alerta 19/10 12:05; Senior boleto pago.",
-    "Execução 21/10: conector M365 ok; 17 e-mails novos no Inbox desde 20/10 10:55Z, 6 enviados desde 19/10; agenda 21-23/10 vazia (busca sem retorno); sem críticas; SharePoint 7314 GB; Entra Connect alerta 20/10 18:46."
+    "Execução 21/10: conector M365 ok; 17 e-mails novos no Inbox desde 20/10 10:55Z, 6 enviados desde 19/10; agenda 21-23/10 vazia (busca sem retorno); sem críticas; SharePoint 7314 GB; Entra Connect alerta 20/10 18:46.",
+    "Execução 22/10: conector M365 ok; 16 e-mails novos no Inbox desde 21/10 10:55Z, 3 enviados; agenda sem retorno (busca vazia); sem críticas; SharePoint 7327 GB; Entra Connect 22/10 01:28. Alerta: Christian enviou credenciais em texto por e-mail em 21/10 20:08 (Senior)."
   ]
 }
