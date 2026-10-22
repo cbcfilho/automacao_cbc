@@ -1,0 +1,232 @@
+{
+  "ultima_pesquisa": "2026-10-19",
+  "pautas_sugeridas": [
+    {
+      "id": "2026-10-13-case-agente-email",
+      "titulo": "Um agente de IA que faz a triagem do e-mail do gestor toda manhã",
+      "pilar": "Cases e bastidores",
+      "formato": "carrossel + reel",
+      "status": "em_producao"
+    },
+    {
+      "id": "2026-10-13-ia-infra-agro",
+      "titulo": "A IA saiu do piloto e virou infraestrutura de gestão no agro",
+      "pilar": "Notícias e tendências",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-13-oito-em-dez",
+      "titulo": "Quase todo produtor já usa alguma ferramenta digital. O gargalo agora é a gestão",
+      "pilar": "Gestão no agro",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-13-ia-fragmentada",
+      "titulo": "Sua empresa tem IA. Mas as IAs conversam entre si?",
+      "pilar": "IA na prática",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-13-planilha-sinais",
+      "titulo": "5 sinais de que sua empresa do agro depende demais de planilha",
+      "pilar": "Gestão no agro",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-14-whatsapp-cobranca",
+      "titulo": "WhatsApp Business: mensagens de atendimento deixaram de ser grátis. O que muda para a sua empresa",
+      "pilar": "Notícias e tendências",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-14-reforma-tributaria-nota",
+      "titulo": "Reforma tributária: sua nota fiscal já destaca CBS e IBS?",
+      "pilar": "Gestão no agro",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-14-ia-email-ordem-escondida",
+      "titulo": "Seu assistente de IA lê e-mail. E se o e-mail der uma ordem escondida?",
+      "pilar": "IA na prática",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-14-bastidor-motor-conteudo",
+      "titulo": "A gente usa no nosso marketing o que vende para o cliente",
+      "pilar": "Cases e bastidores",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-14-gestor-ti-agro",
+      "titulo": "Por que um gestor de TI foi parar no agro",
+      "pilar": "Quem faz",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-14b-1",
+      "titulo": "Agente de IA explicado com um armazém de grãos",
+      "pilar": "IA na prática",
+      "formato": "reel",
+      "status": "agendada",
+      "aprovada_em": "2026-10-13"
+    },
+    {
+      "id": "2026-10-14b-2",
+      "titulo": "Cotação de insumo por WhatsApp e e-mail: o custo de comprar no escuro",
+      "pilar": "Gestão no agro",
+      "formato": "carrossel",
+      "status": "agendada",
+      "aprovada_em": "2026-10-13"
+    },
+    {
+      "id": "2026-10-14b-3",
+      "titulo": "Como o agente de e-mail aprende com as correções do gestor",
+      "pilar": "Cases e bastidores",
+      "formato": "carrossel",
+      "status": "agendada",
+      "aprovada_em": "2026-10-15"
+    },
+    {
+      "id": "2026-10-14b-4",
+      "titulo": "Plano Safra 2026/27: R$ 140,2 bi para investimento. Sua empresa tem controle para usar?",
+      "pilar": "Notícias e tendências",
+      "formato": "carrossel",
+      "status": "agendada",
+      "fontes_conferidas": "MAPA e Planalto (30/06/2026): R$ 525,1 bi empresarial; R$ 140,2 bi investimento, ~38% acima de 2025/26",
+      "aprovada_em": "2026-10-15"
+    },
+    {
+      "id": "2026-10-14b-5",
+      "titulo": "O que eu nunca deixo a IA fazer sozinha",
+      "pilar": "Quem faz",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-15p-1",
+      "titulo": "Inventário com contagem cega: por que quem conta não pode ver o saldo",
+      "pilar": "Cases e bastidores",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-15p-2",
+      "titulo": "Saiu da loja A, não chegou na loja B: onde o estoque some entre filiais",
+      "pilar": "Gestão na prática",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-15p-3",
+      "titulo": "Orçado × realizado: o relatório que todo dono deveria ver toda semana",
+      "pilar": "Gestão na prática",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-15p-4",
+      "titulo": "Sou contador e programador. Isso muda o jeito de fazer software",
+      "pilar": "Quem faz",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-19-1",
+      "titulo": "Quase metade do crédito do agro virou CPR. Quem controla os vencimentos?",
+      "pilar": "Notícias e tendências",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-19-2",
+      "titulo": "Sua empresa usa IA. Mas já tem um agente trabalhando por ela?",
+      "pilar": "IA na prática",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-19-3",
+      "titulo": "Black Friday em 27/11: seu estoque por loja aguenta?",
+      "pilar": "Gestão na prática",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-19-4",
+      "titulo": "Contagem sem internet: como o depósito sem sinal não perde nenhuma leitura",
+      "pilar": "Cases e bastidores",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-19-5",
+      "titulo": "Sou contador. Antes de contratar agente de IA, eu olho o custo por uso",
+      "pilar": "Quem faz",
+      "formato": "reel",
+      "status": "sugerida"
+    }
+  ],
+  "publicados": [
+    {
+      "id": "2026-10-14b-1",
+      "titulo": "Agente de IA explicado com um armazém de grãos",
+      "data_hora": "2026-10-14 11:00 (horário de MT, como agendado no Meta Business Suite)",
+      "formato": "carrossel",
+      "pilar": "IA na prática",
+      "status": "agendado",
+      "link": null
+    },
+    {
+      "id": "2026-10-14b-2",
+      "titulo": "Cotação de insumo: o custo de comprar no escuro",
+      "data_hora": "2026-10-16 11:00 (horário de MT, como agendado no Meta Business Suite)",
+      "formato": "carrossel",
+      "pilar": "Gestão na prática",
+      "status": "agendado",
+      "link": null
+    },
+    {
+      "id": "2026-10-14b-3",
+      "titulo": "Meu agente de IA errou a prioridade. Foi assim que ele aprendeu.",
+      "data_hora": "2026-10-16 18:00 (horário de MT, como agendado no Meta Business Suite)",
+      "formato": "carrossel",
+      "pilar": "Cases e bastidores",
+      "status": "agendado",
+      "link": null
+    },
+    {
+      "id": "2026-10-14b-4",
+      "titulo": "Plano Safra 2026/27: R$ 140,2 bi para investir",
+      "data_hora": "2026-10-17 07:00 (horário de MT, como agendado no Meta Business Suite)",
+      "formato": "carrossel",
+      "pilar": "Notícias e tendências",
+      "status": "agendado",
+      "link": null
+    }
+  ],
+  "metricas_semanais": [],
+  "aprendizados": [],
+  "correcoes": [
+    {
+      "regra": "Identidade visual: usar a logo da Vanguard (carrossel/logo.png) e as cores tiradas dela (azul-marinho e ciano), no lugar da paleta verde provisória.",
+      "data": "2026-10-13"
+    },
+    {
+      "regra": "Posicionamento: não falar só de agro. A Vanguard atende qualquer setor (varejo e franquias, indústria, serviços); equilibrar as pautas (cerca de metade agro, metade outros setores ou gestão geral) e usar a formação do Christian em contabilidade/controladoria + computação como diferencial.",
+      "data": "2026-10-15"
+    },
+    {
+      "regra": "Divulgação autorizada: o agente de e-mail pode ser contado como case ANÔNIMO (sem empresa, pessoas, endereços ou prints reais). Autorizado ao aprovar a pauta 2026-10-14b-3.",
+      "data": "2026-10-15"
+    }
+  ]
+}
