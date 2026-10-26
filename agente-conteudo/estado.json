@@ -1,5 +1,5 @@
 {
-  "ultima_pesquisa": "2026-10-19",
+  "ultima_pesquisa": "2026-10-26",
   "pautas_sugeridas": [
     {
       "id": "2026-10-13-case-agente-email",
@@ -170,6 +170,41 @@
     {
       "id": "2026-10-19-5",
       "titulo": "Sou contador. Antes de contratar agente de IA, eu olho o custo por uso",
+      "pilar": "Quem faz",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-26-1",
+      "titulo": "Fertilizante mais caro, entrega menor: quem fez a conta do custeio da soja?",
+      "pilar": "Notícias e tendências",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-26-2",
+      "titulo": "Franquia cresce, mas menos: onde a margem de cada loja se perde",
+      "pilar": "Gestão na prática",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-26-3",
+      "titulo": "96% conhecem a IA. O que falta é alguém dizer por onde começar",
+      "pilar": "IA na prática",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-26-4",
+      "titulo": "Quem pode ver o quê: 5 perfis de acesso num sistema de estoque",
+      "pilar": "Cases e bastidores",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-10-26-5",
+      "titulo": "Comprar o ERP ou construir sob medida? Como eu decido, como contador e programador",
       "pilar": "Quem faz",
       "formato": "reel",
       "status": "sugerida"
