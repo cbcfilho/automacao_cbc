@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-10-23T10:55:00Z",
+  "ultima_execucao": "2026-10-28T11:00:00Z",
   "itens_reportados": [
     {
       "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
@@ -294,6 +294,54 @@
       "prioridade": "BAIXA",
       "data": "2026-10-23",
       "status": "informativo"
+    },
+    {
+      "id": "SharePoint sem espaço: 7335 GB (24/10), 7330 (25/10), 7329 (26/10) de 5959 GB; estável",
+      "prioridade": "ALTA",
+      "data": "2026-10-26",
+      "status": "aberto"
+    },
+    {
+      "id": "Senior 230752: Vinicius Gabriel diz backups não restauram (23/10, 26/10 'mesmo erro', 27/10 'temos algum retorno?'); Christian recopiando arquivo 26/10 13:23",
+      "prioridade": "ALTA",
+      "data": "2026-10-27",
+      "status": "aberto - responder Senior"
+    },
+    {
+      "id": "Camila Souza aguarda aprovação do Christian: férias de Victor Klein 21/12/26-05/01/27 (27/10 15:58)",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-27",
+      "status": "aberto - aprovar"
+    },
+    {
+      "id": "Claro: Liziane reenviou ENC 'GPU as a Service/Soluções em Nuvem' (27/10); reunião 'Alinhamento OCI' aceita 26/10",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-27",
+      "status": "acompanhar"
+    },
+    {
+      "id": "Ademir Pereira: procedimento/checklist para revisão, auditoria em dezembro (26/10, anexo não lido)",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-26",
+      "status": "aberto - revisar"
+    },
+    {
+      "id": "SharePoint Engenharia-OLD: Antonio Caye (e conta adm) pediu acesso 26/10",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-26",
+      "status": "aberto"
+    },
+    {
+      "id": "Contratação PJ supervisor elétrica 732 (Andrei, 28/10 07:31, Christian em cópia)",
+      "prioridade": "Assunto sensível",
+      "data": "2026-10-28",
+      "status": "ler diretamente"
+    },
+    {
+      "id": "SCALCON pagamento (Aline, 26/10) reenvio a Compras; Starlink (várias contas gmail de fazendas, ativações/falha pagamento 27/10 - conta aroeira), Entra Connect 24-27/10, NF PJ, Construmanager (anexo 27/10 não lido), marketing",
+      "prioridade": "BAIXA",
+      "data": "2026-10-28",
+      "status": "informativo"
     }
   ],
   "pendencias": [
@@ -396,6 +444,20 @@
         "Christian decidir/TI"
       ],
       "desde": "2026-10-22"
+    },
+    {
+      "assunto": "Senior 230752: backups inválidos, Vinicius cobra retorno desde 27/10",
+      "aguardando": [
+        "Christian"
+      ],
+      "desde": "2026-10-23"
+    },
+    {
+      "assunto": "Aprovar férias Victor Klein 21/12-05/01",
+      "aguardando": [
+        "Christian"
+      ],
+      "desde": "2026-10-26"
     }
   ],
   "correcoes": [
@@ -455,6 +517,7 @@
     "Execução 20/10 10:55Z: conector M365 ok; 13 e-mails novos no Inbox desde 19/10 10:55Z, 3 enviados; agenda 20-22/10 vazia; sem críticas; SharePoint 7286 GB; Entra Connect alerta 19/10 12:05; Senior boleto pago.",
     "Execução 21/10: conector M365 ok; 17 e-mails novos no Inbox desde 20/10 10:55Z, 6 enviados desde 19/10; agenda 21-23/10 vazia (busca sem retorno); sem críticas; SharePoint 7314 GB; Entra Connect alerta 20/10 18:46.",
     "Execução 22/10: conector M365 ok; 16 e-mails novos no Inbox desde 21/10 10:55Z, 3 enviados; agenda sem retorno (busca vazia); sem críticas; SharePoint 7327 GB; Entra Connect 22/10 01:28. Alerta: Christian enviou credenciais em texto por e-mail em 21/10 20:08 (Senior).",
-    "Execução 23/10 10:55Z: conector M365 ok; ~12 e-mails novos no Inbox desde 22/10 10:55Z, 3 enviados no período; agenda 23-25/10 vazia (busca sem retorno); sem críticas; SharePoint 7332 GB; Entra Connect 23/10 05:10."
+    "Execução 23/10 10:55Z: conector M365 ok; ~12 e-mails novos no Inbox desde 22/10 10:55Z, 3 enviados no período; agenda 23-25/10 vazia (busca sem retorno); sem críticas; SharePoint 7332 GB; Entra Connect 23/10 05:10.",
+    "Execução 28/10 11:00Z: conector M365 ok; 57 e-mails no Inbox desde 23/10 10:55Z, 2 enviados; agenda 28-30/10 vazia (busca sem retorno); sem críticas; SharePoint ~7329 GB; Entra Connect 24,25,27/10."
   ]
 }
