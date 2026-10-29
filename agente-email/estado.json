@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-10-28T11:00:00Z",
+  "ultima_execucao": "2026-10-29T10:53:00Z",
   "itens_reportados": [
     {
       "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
@@ -342,6 +342,36 @@
       "prioridade": "BAIXA",
       "data": "2026-10-28",
       "status": "informativo"
+    },
+    {
+      "id": "Senior 230752: Vinicius Gabriel (28/10) achou causa: backup .bak enviado é base Oracle (não SQL Server), importou OK no Oracle dele; Christian respondeu 28/10 sobre nomenclatura e origem do link; Alexandre Pereira perguntou data/chamado do arquivo",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-28",
+      "status": "aguardando Senior"
+    },
+    {
+      "id": "Contratação PJ 732 FS|LRV Supervisor Elétrica (RH/Jurídico): novas mensagens 28/10 (Rosangela 20:25 contrato enviado p/ assinatura)",
+      "prioridade": "Assunto sensível",
+      "data": "2026-10-28",
+      "status": "ler diretamente"
+    },
+    {
+      "id": "Agendamento de férias (Camila DP) 28/10 17:45; Christian respondeu 17:26",
+      "prioridade": "Assunto sensível",
+      "data": "2026-10-28",
+      "status": "ler diretamente"
+    },
+    {
+      "id": "Starlink starlink.faz01.bwp@gmail.com: redefinição/atualização de senha 28/10 11:32-11:33 e código de verificação 17:57 (conta diferente da do Leandro; confirmar se foi Christian)",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-28",
+      "status": "confirmar"
+    },
+    {
+      "id": "Informativos 28-29/10: Construmanager 27 e 28/10 (anexo não lido), Entra Connect 28/10 11:02, TeamViewer, Algar/Starlink oferta, TotalCAD, marketing",
+      "prioridade": "BAIXA",
+      "data": "2026-10-29",
+      "status": "informativo"
     }
   ],
   "pendencias": [
@@ -518,6 +548,7 @@
     "Execução 21/10: conector M365 ok; 17 e-mails novos no Inbox desde 20/10 10:55Z, 6 enviados desde 19/10; agenda 21-23/10 vazia (busca sem retorno); sem críticas; SharePoint 7314 GB; Entra Connect alerta 20/10 18:46.",
     "Execução 22/10: conector M365 ok; 16 e-mails novos no Inbox desde 21/10 10:55Z, 3 enviados; agenda sem retorno (busca vazia); sem críticas; SharePoint 7327 GB; Entra Connect 22/10 01:28. Alerta: Christian enviou credenciais em texto por e-mail em 21/10 20:08 (Senior).",
     "Execução 23/10 10:55Z: conector M365 ok; ~12 e-mails novos no Inbox desde 22/10 10:55Z, 3 enviados no período; agenda 23-25/10 vazia (busca sem retorno); sem críticas; SharePoint 7332 GB; Entra Connect 23/10 05:10.",
-    "Execução 28/10 11:00Z: conector M365 ok; 57 e-mails no Inbox desde 23/10 10:55Z, 2 enviados; agenda 28-30/10 vazia (busca sem retorno); sem críticas; SharePoint ~7329 GB; Entra Connect 24,25,27/10."
+    "Execução 28/10 11:00Z: conector M365 ok; 57 e-mails no Inbox desde 23/10 10:55Z, 2 enviados; agenda 28-30/10 vazia (busca sem retorno); sem críticas; SharePoint ~7329 GB; Entra Connect 24,25,27/10.",
+    "Execução 29/10: conector M365 ok; ~25 e-mails no Inbox desde 28/10 11:00Z (maioria 28/10 manhã/tarde + Construmanager 29/10), 7 enviados no período 23-28/10; agenda 29/10-31/10 vazia (busca sem retorno); sem críticas/altas novas; Starlink faz01 senha alterada 28/10 a confirmar."
   ]
 }
