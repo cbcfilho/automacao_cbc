@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-10-29T10:53:00Z",
+  "ultima_execucao": "2026-10-30T11:00:00Z",
   "itens_reportados": [
     {
       "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
@@ -372,6 +372,30 @@
       "prioridade": "BAIXA",
       "data": "2026-10-29",
       "status": "informativo"
+    },
+    {
+      "id": "GLPI #1940: Erlan Delgado pede acesso Sienge (comprador, obra 740), atribuído ao Christian (29/10 20:14)",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-29",
+      "status": "aberto"
+    },
+    {
+      "id": "Senior 230752: Vinicius Gabriel (29/10) converteu base Oracle->SQL Server (Oracle XE limita 12 GB), restaurou e passou credenciais ao Alexandre Pereira",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-29",
+      "status": "aguardando Senior"
+    },
+    {
+      "id": "Encerramento internet alojamento (Renildo, 29/10): VSTnet, Natália/Financeiro e Christian citados",
+      "prioridade": "BAIXA",
+      "data": "2026-10-29",
+      "status": "informativo"
+    },
+    {
+      "id": "Informativos 29/10: Construmanager->Btech (CM inativado 30/10), Qive API CNPJs incluídos, Entra Connect 29/10 17:41, GitHub Copilot request, pentest DeepSecurity (marketing externo), KnowBe4, Milvus, INN",
+      "prioridade": "BAIXA",
+      "data": "2026-10-29",
+      "status": "informativo"
     }
   ],
   "pendencias": [
@@ -549,6 +573,7 @@
     "Execução 22/10: conector M365 ok; 16 e-mails novos no Inbox desde 21/10 10:55Z, 3 enviados; agenda sem retorno (busca vazia); sem críticas; SharePoint 7327 GB; Entra Connect 22/10 01:28. Alerta: Christian enviou credenciais em texto por e-mail em 21/10 20:08 (Senior).",
     "Execução 23/10 10:55Z: conector M365 ok; ~12 e-mails novos no Inbox desde 22/10 10:55Z, 3 enviados no período; agenda 23-25/10 vazia (busca sem retorno); sem críticas; SharePoint 7332 GB; Entra Connect 23/10 05:10.",
     "Execução 28/10 11:00Z: conector M365 ok; 57 e-mails no Inbox desde 23/10 10:55Z, 2 enviados; agenda 28-30/10 vazia (busca sem retorno); sem críticas; SharePoint ~7329 GB; Entra Connect 24,25,27/10.",
-    "Execução 29/10: conector M365 ok; ~25 e-mails no Inbox desde 28/10 11:00Z (maioria 28/10 manhã/tarde + Construmanager 29/10), 7 enviados no período 23-28/10; agenda 29/10-31/10 vazia (busca sem retorno); sem críticas/altas novas; Starlink faz01 senha alterada 28/10 a confirmar."
+    "Execução 29/10: conector M365 ok; ~25 e-mails no Inbox desde 28/10 11:00Z (maioria 28/10 manhã/tarde + Construmanager 29/10), 7 enviados no período 23-28/10; agenda 29/10-31/10 vazia (busca sem retorno); sem críticas/altas novas; Starlink faz01 senha alterada 28/10 a confirmar.",
+    "Execução 30/10: conector M365 ok; 15 e-mails no Inbox desde 29/10 10:53Z, 0 enviados; agenda 30/10-01/11 vazia (busca sem retorno); sem críticas/altas novas; Entra Connect 29/10 17:41. Sem notificação enviada."
   ]
 }
