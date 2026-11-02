@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-10-30T11:00:00Z",
+  "ultima_execucao": "2026-11-02T11:00:00Z",
   "itens_reportados": [
     {
       "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
@@ -396,6 +396,30 @@
       "prioridade": "BAIXA",
       "data": "2026-10-29",
       "status": "informativo"
+    },
+    {
+      "id": "Senior 230752: Angela Tojal (30/10 18:21) pede à Senior um contato WhatsApp para Christian falar direto, sem depender de e-mail; Teams de Lucas Souza/Angela (30/10) sobre cadastro de credor/títulos para rescisões, férias e guias",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-30",
+      "status": "aguardando Senior; Christian retornar no Teams"
+    },
+    {
+      "id": "Starlink starlink.faz01.bwp@gmail.com 30/10: serviço ativado (cobrança R$ 28,45), aviso de uso fora do país/registro de viagem, códigos de verificação (não repetidos); confirmar se foi Christian/Leandro",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-30",
+      "status": "confirmar"
+    },
+    {
+      "id": "SharePoint pedidos de acesso 31/10: Felipe Ribeiro ao site '725. Brasbio'; Renildo Gomes à planilha 'GC 735-SPE FS ARMAZÉM IV PVA.xlsm'",
+      "prioridade": "MÉDIA",
+      "data": "2026-10-31",
+      "status": "aberto"
+    },
+    {
+      "id": "Informativos 30/10-02/11: Entra Connect 31/10 00:23 e 01/11 07:05, Construmanager 29/10-01/11 (envio suspenso), NF PJ 30/10-01/11, Qive pergunta se encerra atendimento, amigo secreto, TeamViewer, Milvus, Lenovo, SoftExpert, LAIOB, login Claude diretoria 31/10",
+      "prioridade": "BAIXA",
+      "data": "2026-11-02",
+      "status": "informativo"
     }
   ],
   "pendencias": [
@@ -512,6 +536,13 @@
         "Christian"
       ],
       "desde": "2026-10-26"
+    },
+    {
+      "assunto": "Senior 230752: Christian passar contato WhatsApp/ligar para consultor (pedido Angela 30/10)",
+      "aguardando": [
+        "Christian / Senior"
+      ],
+      "desde": "2026-10-30"
     }
   ],
   "correcoes": [
@@ -574,6 +605,7 @@
     "Execução 23/10 10:55Z: conector M365 ok; ~12 e-mails novos no Inbox desde 22/10 10:55Z, 3 enviados no período; agenda 23-25/10 vazia (busca sem retorno); sem críticas; SharePoint 7332 GB; Entra Connect 23/10 05:10.",
     "Execução 28/10 11:00Z: conector M365 ok; 57 e-mails no Inbox desde 23/10 10:55Z, 2 enviados; agenda 28-30/10 vazia (busca sem retorno); sem críticas; SharePoint ~7329 GB; Entra Connect 24,25,27/10.",
     "Execução 29/10: conector M365 ok; ~25 e-mails no Inbox desde 28/10 11:00Z (maioria 28/10 manhã/tarde + Construmanager 29/10), 7 enviados no período 23-28/10; agenda 29/10-31/10 vazia (busca sem retorno); sem críticas/altas novas; Starlink faz01 senha alterada 28/10 a confirmar.",
-    "Execução 30/10: conector M365 ok; 15 e-mails no Inbox desde 29/10 10:53Z, 0 enviados; agenda 30/10-01/11 vazia (busca sem retorno); sem críticas/altas novas; Entra Connect 29/10 17:41. Sem notificação enviada."
+    "Execução 30/10: conector M365 ok; 15 e-mails no Inbox desde 29/10 10:53Z, 0 enviados; agenda 30/10-01/11 vazia (busca sem retorno); sem críticas/altas novas; Entra Connect 29/10 17:41. Sem notificação enviada.",
+    "Execução 02/11: conector M365 ok; 28 e-mails no Inbox desde 30/10 10:50Z, 0 enviados desde 28/10; agenda 02-04/11 vazia (busca sem retorno); sem críticas/altas novas; sem alerta de SharePoint cheio desde 26/10. Sem notificação enviada."
   ]
 }
