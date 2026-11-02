@@ -1,5 +1,5 @@
 {
-  "ultima_pesquisa": "2026-10-26",
+  "ultima_pesquisa": "2026-11-02",
   "pautas_sugeridas": [
     {
       "id": "2026-10-13-case-agente-email",
@@ -205,6 +205,41 @@
     {
       "id": "2026-10-26-5",
       "titulo": "Comprar o ERP ou construir sob medida? Como eu decido, como contador e programador",
+      "pilar": "Quem faz",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-11-02-1",
+      "titulo": "El Niño pode atrasar o plantio: seu caixa aguenta a soja entrando mais tarde?",
+      "pilar": "Gestão na prática",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-11-02-2",
+      "titulo": "Simples Nacional: nota de serviço só pelo Emissor Nacional desde 1º/11. Sua rotina de emissão está pronta?",
+      "pilar": "Notícias e tendências",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-11-02-3",
+      "titulo": "35% das empresas não têm humano revisando o que o agente de IA faz. E as permissões?",
+      "pilar": "IA na prática",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-11-02-4",
+      "titulo": "O quadro que abre tarefa sozinho: reposição, vencimento e inventário sem ninguém lembrar",
+      "pilar": "Cases e bastidores",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-11-02-5",
+      "titulo": "Sou contador: o caixa avisa o problema antes do balanço",
       "pilar": "Quem faz",
       "formato": "reel",
       "status": "sugerida"
