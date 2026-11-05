@@ -1,0 +1,19 @@
+{
+  "nome": "VANGUARD",
+  "arroba": "@vanguard.mt.br",
+  "slogan": "Software, dados e IA para a gestão de empresas",
+  "logo": "logo.png",
+  "fonte": "Inter",
+  "cores": {
+    "escuro": "#0A1A2F",
+    "escuro_2": "#15304D",
+    "claro": "#F3F6F9",
+    "claro_2": "#E1E8F0",
+    "primaria": "#1C5D96",
+    "destaque": "#3CC8E8",
+    "texto_escuro": "#0A1A2F",
+    "texto_claro": "#F3F6F9",
+    "suave_escuro": "#9FB3C8",
+    "suave_claro": "#5A6B7D"
+  }
+}

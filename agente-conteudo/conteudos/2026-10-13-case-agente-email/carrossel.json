@@ -1,0 +1,73 @@
+{
+  "slug": "2026-10-13-case-agente-email",
+  "pilar": "Case real",
+  "legenda": "Todo gestor conhece a cena: a caixa de e-mail lotada, um pedido importante perdido no meio de propaganda e aquela cobrança que você mandou e ninguém respondeu.\n\nCriamos um agente de IA que faz a triagem dessa caixa todas as manhãs. Ele lê as mensagens, cruza com a agenda dos próximos dias, separa o que é crítico do que pode esperar, lembra o que está pendente e já deixa sugestões de resposta no tom do gestor.\n\nE um detalhe que faz toda a diferença: ele não envia, não apaga e não encaminha nada sozinho. A decisão continua com a pessoa.\n\nA mesma lógica serve para compras, cotações de insumos, contas a pagar e pedidos de manutenção — qualquer rotina que hoje depende de alguém ler, separar e lembrar.\n\nQuer um agente desses na sua empresa? Comente AGENTE que eu te explico como funciona.",
+  "hashtags": ["#agronegocio", "#gestaoempresarial", "#inteligenciaartificial", "#automacao", "#agentesdeia", "#agtech", "#produtividade", "#gestaorural", "#tecnologianoagro", "#vanguard"],
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "Um agente de IA que faz a *triagem do e-mail* do gestor toda manhã",
+      "subtitulo": "E por que ele nunca envia nada sozinho."
+    },
+    {
+      "tipo": "antes_depois",
+      "titulo": "O que *mudou* na rotina",
+      "rotulo_antes": "Antes",
+      "rotulo_depois": "Com o agente",
+      "antes": [
+        "Pedido importante perdido no meio de propaganda",
+        "Cobrança enviada sem resposta — e ninguém lembrava",
+        "Reunião marcada sem ler o e-mail que explicava o assunto"
+      ],
+      "depois": [
+        "Painel com prioridades: crítica, alta, média e baixa",
+        "Lista do que você cobrou e ainda não responderam",
+        "E-mails cruzados com a agenda dos próximos 2 dias"
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Como ele *funciona*",
+      "itens": [
+        "Lê os e-mails desde a última execução",
+        "Cruza cada assunto com a agenda",
+        "Classifica pela prioridade, com as regras do gestor",
+        "Resume, aponta prazo e próxima ação",
+        "Deixa um rascunho de resposta no tom dele"
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Ele *aprende* com as correções",
+      "texto": "Quando o gestor diz \"e-mail desse remetente é sempre prioridade alta\", a regra vai para a memória do agente.\n\nNa execução seguinte, ela já vale. Com o tempo, o painel fica cada vez mais parecido com o jeito de ele trabalhar.",
+      "destaque": "IA boa não é a que sabe tudo. É a que *se ajusta* à sua operação."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Segurança em *primeiro lugar*",
+      "itens": [
+        "Só lê: não envia, não apaga, não encaminha",
+        "RH e jurídico aparecem só como aviso, sem resumo",
+        "Remetente desconhecido pedindo pagamento vira alerta de golpe",
+        "Instrução escondida dentro de um e-mail não é obedecida"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Onde a mesma lógica *funciona no agro*",
+      "itens": [
+        "Compras e cotações de insumos",
+        "Contas a pagar e boletos de fornecedores",
+        "Pedidos de manutenção de máquinas e frota",
+        "Documentos de armazém, transporte e notas"
+      ],
+      "destaque": "Se alguém precisa *ler, separar e lembrar*, dá para automatizar."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Quer um agente desses na *sua empresa*?",
+      "texto": "A gente desenha a automação sob medida para a sua rotina.",
+      "palavra": "AGENTE"
+    }
+  ]
+}
