@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-11-04T11:00:00Z",
+  "ultima_execucao": "2026-11-05T11:00:00Z",
   "itens_reportados": [
     {
       "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
@@ -462,6 +462,18 @@
       "prioridade": "BAIXA",
       "data": "2026-11-04",
       "status": "informativo"
+    },
+    {
+      "id": "Senior 230752: Ana Pickler (04/11 18:34) informa que a proposta cobre só Administração de Pessoal; módulo Controle de Ponto exige o executivo comercial Zerenato Moreira atualizar a proposta (Christian havia cobrado 04/11 17:07)",
+      "prioridade": "MÉDIA",
+      "data": "2026-11-04",
+      "status": "aberto - acionar Zerenato Moreira / proposta Ponto"
+    },
+    {
+      "id": "Informativos 04-05/11: Robô NFS-e (35 notas aguardando medição no Sienge, 05/11; teste 04/11), Comunicado Renato NFS-e Nacional locação/BTS desde 01/12/2026 (anexo não lido), Sienge obras 744 criada e 739 custo lançado (Maria Ferreira), aditivo obra 741 (Jessica), Entra Connect 05/11 03:14, Construmanager 04/11 (anexo não lido), marketing (Lowcost, Pro IT, KnowBe4, Suplos, SoftExpert, INN, Fortinet, LAIOB)",
+      "prioridade": "BAIXA",
+      "data": "2026-11-05",
+      "status": "informativo"
     }
   ],
   "pendencias": [
@@ -592,6 +604,13 @@
         "Christian/TI"
       ],
       "desde": "2026-11-03"
+    },
+    {
+      "assunto": "Senior 230752: solicitar ao executivo Zerenato Moreira a revisão da proposta incluindo Controle de Ponto",
+      "aguardando": [
+        "Christian / Zerenato Moreira (Senior)"
+      ],
+      "desde": "2026-11-04"
     }
   ],
   "correcoes": [
@@ -657,6 +676,7 @@
     "Execução 30/10: conector M365 ok; 15 e-mails no Inbox desde 29/10 10:53Z, 0 enviados; agenda 30/10-01/11 vazia (busca sem retorno); sem críticas/altas novas; Entra Connect 29/10 17:41. Sem notificação enviada.",
     "Execução 02/11: conector M365 ok; 28 e-mails no Inbox desde 30/10 10:50Z, 0 enviados desde 28/10; agenda 02-04/11 vazia (busca sem retorno); sem críticas/altas novas; sem alerta de SharePoint cheio desde 26/10. Sem notificação enviada.",
     "Execução 03/11: conector M365 ok; ~9 e-mails novos no Inbox desde 02/11 11:00Z, 0 enviados; agenda 03-05/11 vazia (busca sem retorno); sem críticas/altas novas. Sem notificação enviada.",
-    "Execução 04/11: conector M365 ok; ~31 e-mails no Inbox desde 03/11 11:00Z, 8 enviados recentes (último 03/11 19:55); agenda 04-06/11 vazia (busca sem retorno); 1 ALTA nova (Financeiro/liberações). Notificação enviada."
+    "Execução 04/11: conector M365 ok; ~31 e-mails no Inbox desde 03/11 11:00Z, 8 enviados recentes (último 03/11 19:55); agenda 04-06/11 vazia (busca sem retorno); 1 ALTA nova (Financeiro/liberações). Notificação enviada.",
+    "Execução 05/11: conector M365 ok; 17 e-mails no Inbox desde 04/11 11:00Z, 2 enviados (04/11 17:07 Senior; sem resposta a Leticia ainda); agenda 05-07/11 vazia (busca sem retorno); sem críticas/altas novas (ALTA Financeiro/liberações segue aberta). Sem notificação enviada."
   ]
 }
