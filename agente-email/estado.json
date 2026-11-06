@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-11-05T11:00:00Z",
+  "ultima_execucao": "2026-11-06T11:00:00Z",
   "itens_reportados": [
     {
       "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
@@ -474,6 +474,18 @@
       "prioridade": "BAIXA",
       "data": "2026-11-05",
       "status": "informativo"
+    },
+    {
+      "id": "Senior 230752: Zerenato (Senior vendas) 05/11 20:44 confirma necessidade de contratar licenças do módulo Controle de Ponto; proposta comercial solicitada, será enviada ao Christian para análise (Ana Pickler 05/11: só esse item faltou no escopo)",
+      "prioridade": "MÉDIA",
+      "data": "2026-11-05",
+      "status": "aguardando proposta Senior"
+    },
+    {
+      "id": "Informativos 05-06/11: Entra Connect 05/11 03:14 e 06/11 09:57, Robô NFS-e (33 notas aguardando medição), Construmanager 05/11, Starlink códigos (conta pagamentos), Claude: Christian pediu cartão p/ 2 contas (RH, Contabilidade) 05/11, docs obra 728/729, marketing",
+      "prioridade": "BAIXA",
+      "data": "2026-11-06",
+      "status": "informativo"
     }
   ],
   "pendencias": [
@@ -677,6 +689,7 @@
     "Execução 02/11: conector M365 ok; 28 e-mails no Inbox desde 30/10 10:50Z, 0 enviados desde 28/10; agenda 02-04/11 vazia (busca sem retorno); sem críticas/altas novas; sem alerta de SharePoint cheio desde 26/10. Sem notificação enviada.",
     "Execução 03/11: conector M365 ok; ~9 e-mails novos no Inbox desde 02/11 11:00Z, 0 enviados; agenda 03-05/11 vazia (busca sem retorno); sem críticas/altas novas. Sem notificação enviada.",
     "Execução 04/11: conector M365 ok; ~31 e-mails no Inbox desde 03/11 11:00Z, 8 enviados recentes (último 03/11 19:55); agenda 04-06/11 vazia (busca sem retorno); 1 ALTA nova (Financeiro/liberações). Notificação enviada.",
-    "Execução 05/11: conector M365 ok; 17 e-mails no Inbox desde 04/11 11:00Z, 2 enviados (04/11 17:07 Senior; sem resposta a Leticia ainda); agenda 05-07/11 vazia (busca sem retorno); sem críticas/altas novas (ALTA Financeiro/liberações segue aberta). Sem notificação enviada."
+    "Execução 05/11: conector M365 ok; 17 e-mails no Inbox desde 04/11 11:00Z, 2 enviados (04/11 17:07 Senior; sem resposta a Leticia ainda); agenda 05-07/11 vazia (busca sem retorno); sem críticas/altas novas (ALTA Financeiro/liberações segue aberta). Sem notificação enviada.",
+    "Execução 06/11: conector M365 ok; ~30 e-mails no Inbox desde 05/11 11:00Z, 1 enviado (cartão Claude IA); agenda 06-08/11 vazia (busca sem retorno); sem críticas/altas novas; Senior: Controle de Ponto exige nova proposta. Sem notificação enviada."
   ]
 }
