@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-11-06T11:00:00Z",
+  "ultima_execucao": "2026-11-09T10:53:00Z",
   "itens_reportados": [
     {
       "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
@@ -486,6 +486,36 @@
       "prioridade": "BAIXA",
       "data": "2026-11-06",
       "status": "informativo"
+    },
+    {
+      "id": "Andrei Moreno (RH) pede bloquear envio aos grupos todos.bwp@ e todos.bdr@; só Nádia e Tayna podem enviar (Tayna = comunicação interna) - Christian como responsável",
+      "prioridade": "ALTA",
+      "data": "2026-11-08",
+      "status": "aberto - Christian executar bloqueio"
+    },
+    {
+      "id": "Senior base legada folha: troca de e-mails 07/11 (Edson Souza, Zerenato Moreira/Senior) sobre acesso a cartões ponto e escopo - Assunto sensível (contrato em disputa), leia diretamente",
+      "prioridade": "ALTA",
+      "data": "2026-11-07",
+      "status": "sensivel - ler diretamente"
+    },
+    {
+      "id": "Starlink: falha de pagamento 06/11 (3 avisos); depois lembrete de pagamento automático e fatura 07/11 (R$ 249,00) - provável regularização, confirmar",
+      "prioridade": "MÉDIA",
+      "data": "2026-11-07",
+      "status": "confirmar"
+    },
+    {
+      "id": "Robô NFS-e 06/11: várias rodadas com notas paradas (até 79) e falhas técnicas (até 10); notas aguardando medição 11; Pedidos 41798/42151/42155 (obra 69) não enviados pelo robô, avisados a Suprimentos (Luciene)",
+      "prioridade": "MÉDIA",
+      "data": "2026-11-06",
+      "status": "acompanhar"
+    },
+    {
+      "id": "Entra Connect erros 07/11 e 08/11; Teams Exploratory trial expira (1 usuário); relatórios NF PJ 06-08/11; Construmanager sem atividade (envios suspensos); marketing (Milvus, SoftExpert, AdviceBrands); possível phishing 'BB Autoatendimento' (vendas@topxnet, 06/11, não destinado ao Christian); Portal BDR obra 732 (Lucas, 06/11)",
+      "prioridade": "BAIXA",
+      "data": "2026-11-08",
+      "status": "informativo"
     }
   ],
   "pendencias": [
@@ -623,6 +653,20 @@
         "Christian / Zerenato Moreira (Senior)"
       ],
       "desde": "2026-11-04"
+    },
+    {
+      "assunto": "Bloquear envio aos grupos todos.bwp/todos.bdr exceto Nádia e Tayna (pedido Andrei 08/11)",
+      "aguardando": [
+        "Christian"
+      ],
+      "desde": "2026-11-08"
+    },
+    {
+      "assunto": "Senior Controle de Ponto: proposta comercial de licenças prometida por Zerenato (05/11)",
+      "aguardando": [
+        "Senior/Zerenato"
+      ],
+      "desde": "2026-11-05"
     }
   ],
   "correcoes": [
