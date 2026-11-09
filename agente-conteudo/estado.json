@@ -1,5 +1,5 @@
 {
-  "ultima_pesquisa": "2026-11-02",
+  "ultima_pesquisa": "2026-11-09",
   "pautas_sugeridas": [
     {
       "id": "2026-10-13-case-agente-email",
@@ -240,6 +240,41 @@
     {
       "id": "2026-11-02-5",
       "titulo": "Sou contador: o caixa avisa o problema antes do balanço",
+      "pilar": "Quem faz",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-11-09-1",
+      "titulo": "Renegociar dívida rural exige provar a perda. Seus registros provam?",
+      "pilar": "Notícias e tendências",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-11-09-2",
+      "titulo": "Varejo vende menos há 16 meses. O que o dono olha antes do faturamento?",
+      "pilar": "Gestão na prática",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-11-09-3",
+      "titulo": "IA que responde pergunta é chat. Agente é o que trabalha enquanto você dorme",
+      "pilar": "IA na prática",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-11-09-4",
+      "titulo": "Vence primeiro, sai primeiro: como o sistema decide qual lote sai do estoque",
+      "pilar": "Cases e bastidores",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-11-09-5",
+      "titulo": "Plantou? Agora começa a contabilidade da safra",
       "pilar": "Quem faz",
       "formato": "reel",
       "status": "sugerida"
