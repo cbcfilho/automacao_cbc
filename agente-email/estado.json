@@ -734,6 +734,7 @@
     "Execução 03/11: conector M365 ok; ~9 e-mails novos no Inbox desde 02/11 11:00Z, 0 enviados; agenda 03-05/11 vazia (busca sem retorno); sem críticas/altas novas. Sem notificação enviada.",
     "Execução 04/11: conector M365 ok; ~31 e-mails no Inbox desde 03/11 11:00Z, 8 enviados recentes (último 03/11 19:55); agenda 04-06/11 vazia (busca sem retorno); 1 ALTA nova (Financeiro/liberações). Notificação enviada.",
     "Execução 05/11: conector M365 ok; 17 e-mails no Inbox desde 04/11 11:00Z, 2 enviados (04/11 17:07 Senior; sem resposta a Leticia ainda); agenda 05-07/11 vazia (busca sem retorno); sem críticas/altas novas (ALTA Financeiro/liberações segue aberta). Sem notificação enviada.",
-    "Execução 06/11: conector M365 ok; ~30 e-mails no Inbox desde 05/11 11:00Z, 1 enviado (cartão Claude IA); agenda 06-08/11 vazia (busca sem retorno); sem críticas/altas novas; Senior: Controle de Ponto exige nova proposta. Sem notificação enviada."
+    "Execução 06/11: conector M365 ok; ~30 e-mails no Inbox desde 05/11 11:00Z, 1 enviado (cartão Claude IA); agenda 06-08/11 vazia (busca sem retorno); sem críticas/altas novas; Senior: Controle de Ponto exige nova proposta. Sem notificação enviada.",
+    "Execução 13/11 ~11:05Z: FALHOU a leitura. Conector M365 conectado (perfil ok), mas buscas de e-mail (Inbox/Enviados) e agenda retornaram erro 502 do Microsoft Graph em 5 rodadas ao longo de ~12 min. Nenhum e-mail analisado; ultima_execucao mantida em 09/11 10:53Z para a próxima execução cobrir o período. Notificação de falha enviada."
   ]
 }
