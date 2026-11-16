@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-11-09T10:53:00Z",
+  "ultima_execucao": "2026-11-16T11:00:00Z",
   "itens_reportados": [
     {
       "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
@@ -516,6 +516,54 @@
       "prioridade": "BAIXA",
       "data": "2026-11-08",
       "status": "informativo"
+    },
+    {
+      "id": "Senior base legada folha: Edson Souza (advogado) 09/11 12:04 com Senior/Zerenato, Andrei, Angela, Rosangela, Luan - jurídico/contrato em disputa",
+      "prioridade": "Assunto sensível (ALTA)",
+      "data": "2026-11-09",
+      "status": "sensivel - ler diretamente"
+    },
+    {
+      "id": "Starlink conta ACC-5928350: falha de pagamento 16/11 08:17Z (R$ 249,00, valor acima do limite do cartão); risco de interrupção; outras contas com faturas/pagamento automático 16/11",
+      "prioridade": "MÉDIA",
+      "data": "2026-11-16",
+      "status": "aberto - regularizar cartão/limite"
+    },
+    {
+      "id": "Jean Junior (Assist. Adm. obra) pede liberação Wi-Fi BDR-Corporativa para celulares de lideranças, com Book de MACs em PDF (13/11 17:37; Antonio Caye e Beatriz em cópia)",
+      "prioridade": "MÉDIA",
+      "data": "2026-11-13",
+      "status": "aberto - analisar/decidir"
+    },
+    {
+      "id": "Alertas O365: elevação de privilégio Exchange adm.victor.klein (11/11 17:15Z, low) e regra de redirecionamento na caixa nfe@bdrmt (13/11 19:15Z, informational)",
+      "prioridade": "MÉDIA",
+      "data": "2026-11-13",
+      "status": "confirmar se autorizados"
+    },
+    {
+      "id": "Pablo Pelle (Controller) 11/11: automatização de envio de pedidos de compra; William gerou planilha compartilhada de fornecedores (e-mail + CBS/regime 2027); Christian em cópia, sócios em cópia",
+      "prioridade": "MÉDIA",
+      "data": "2026-11-11",
+      "status": "acompanhar"
+    },
+    {
+      "id": "Renildo 11/11: cancelamento ponto internet VSTnet alojamento técnico Rua 07 Pq. Girassóis, Campo Novo do Parecis (aparelho já entregue)",
+      "prioridade": "BAIXA",
+      "data": "2026-11-11",
+      "status": "informativo - confirmar cancelamento"
+    },
+    {
+      "id": "Carla Lima pediu pasta Brasbio p/ Ivan; Christian liberou 10/11 e Ivan confirmou 11/11",
+      "prioridade": "BAIXA",
+      "data": "2026-11-11",
+      "status": "resolvido"
+    },
+    {
+      "id": "Informativos 09-16/11: Robô NFS-e diário (16/11: 29 paradas, 3 falhas, 5 aguardando medição, 21 emitidas 26-fim do mês p/ cancelar), pedidos obra 69 manuais (42285, 41610, 42360, 42423, 42430), NF PJ restrito, Entra Connect 10,11,13,14,15/11, GLPI (2052, 2048, 2033, 2022 impressoras; 1991, 2004, 2023, 2025, 1969 atribuídos), Teams equipes adicionadas, comunicado chamados obrigatórios (Victor Klein 11/11), Ata reunião mensal 11/11, relatório OCI (Flaviano, anexo não lido), relatório firewall p/ auditoria IA (Antonio, anexo não lido), alerta DMARC e-mith (externo, verificar), Dell gerente de contas, Construmanager, marketing",
+      "prioridade": "BAIXA",
+      "data": "2026-11-16",
+      "status": "informativo"
     }
   ],
   "pendencias": [
@@ -667,6 +715,20 @@
         "Senior/Zerenato"
       ],
       "desde": "2026-11-05"
+    },
+    {
+      "assunto": "Situação dos colaboradores Campo Novo (ativo/transferido/desligado) - Christian pediu a Andrei/Tayna/Luan em 09/11, sem resposta no e-mail",
+      "aguardando": [
+        "Andrei / Tayna / Luan"
+      ],
+      "desde": "2026-11-09"
+    },
+    {
+      "assunto": "Liberação Wi-Fi corporativa p/ celulares de lideranças da obra (Jean Junior 13/11)",
+      "aguardando": [
+        "Christian/TI decidir"
+      ],
+      "desde": "2026-11-13"
     }
   ],
   "correcoes": [
@@ -735,6 +797,7 @@
     "Execução 04/11: conector M365 ok; ~31 e-mails no Inbox desde 03/11 11:00Z, 8 enviados recentes (último 03/11 19:55); agenda 04-06/11 vazia (busca sem retorno); 1 ALTA nova (Financeiro/liberações). Notificação enviada.",
     "Execução 05/11: conector M365 ok; 17 e-mails no Inbox desde 04/11 11:00Z, 2 enviados (04/11 17:07 Senior; sem resposta a Leticia ainda); agenda 05-07/11 vazia (busca sem retorno); sem críticas/altas novas (ALTA Financeiro/liberações segue aberta). Sem notificação enviada.",
     "Execução 06/11: conector M365 ok; ~30 e-mails no Inbox desde 05/11 11:00Z, 1 enviado (cartão Claude IA); agenda 06-08/11 vazia (busca sem retorno); sem críticas/altas novas; Senior: Controle de Ponto exige nova proposta. Sem notificação enviada.",
-    "Execução 13/11 ~11:05Z: FALHOU a leitura. Conector M365 conectado (perfil ok), mas buscas de e-mail (Inbox/Enviados) e agenda retornaram erro 502 do Microsoft Graph em 5 rodadas ao longo de ~12 min. Nenhum e-mail analisado; ultima_execucao mantida em 09/11 10:53Z para a próxima execução cobrir o período. Notificação de falha enviada."
+    "Execução 13/11 ~11:05Z: FALHOU a leitura. Conector M365 conectado (perfil ok), mas buscas de e-mail (Inbox/Enviados) e agenda retornaram erro 502 do Microsoft Graph em 5 rodadas ao longo de ~12 min. Nenhum e-mail analisado; ultima_execucao mantida em 09/11 10:53Z para a próxima execução cobrir o período. Notificação de falha enviada.",
+    "Execução 16/11 ~11:00Z: conector M365 ok; 164 e-mails no Inbox desde 09/11 10:53Z (cobre a falha de 13/11; ~5 e-mails automáticos da Anthropic omitidos pelo conector), 8 enviados; agenda 16-18/11 vazia (busca sem retorno); 0 críticas; 1 ALTA nova (sensível: Senior/Edson Souza 09/11); Starlink falha de pagamento 16/11. Notificação enviada."
   ]
 }
