@@ -1,5 +1,5 @@
 {
-  "ultima_pesquisa": "2026-11-09",
+  "ultima_pesquisa": "2026-11-16",
   "pautas_sugeridas": [
     {
       "id": "2026-10-13-case-agente-email",
@@ -275,6 +275,41 @@
     {
       "id": "2026-11-09-5",
       "titulo": "Plantou? Agora começa a contabilidade da safra",
+      "pilar": "Quem faz",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-11-16-1",
+      "titulo": "1 bilhão de tentativas de ataque ao agro em 9 meses. Quem aprova o Pix na sua empresa?",
+      "pilar": "Notícias e tendências",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-11-16-2",
+      "titulo": "O prazo da reforma tributária mudou de novo. Use a folga para arrumar o cadastro",
+      "pilar": "Gestão na prática",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-11-16-3",
+      "titulo": "A empresa gasta mais com IA. Alguém mede o que voltou?",
+      "pilar": "IA na prática",
+      "formato": "reel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-11-16-4",
+      "titulo": "Importou a mesma planilha duas vezes? O estoque dobrou sem ninguém ver",
+      "pilar": "Cases e bastidores",
+      "formato": "carrossel",
+      "status": "sugerida"
+    },
+    {
+      "id": "2026-11-16-5",
+      "titulo": "A Conab revisou a safra para baixo. Seu orçamento também é revisado?",
       "pilar": "Quem faz",
       "formato": "reel",
       "status": "sugerida"
