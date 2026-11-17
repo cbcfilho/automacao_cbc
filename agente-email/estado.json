@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-11-16T11:00:00Z",
+  "ultima_execucao": "2026-11-17T11:00:00Z",
   "itens_reportados": [
     {
       "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
@@ -564,6 +564,24 @@
       "prioridade": "BAIXA",
       "data": "2026-11-16",
       "status": "informativo"
+    },
+    {
+      "id": "Mudança contratual de colaborador da TI (Christian solicitou a RH/Financeiro 16/11 10:49; Luan respondeu 'ok' 16/11 11:49) - Assunto sensível (RH), leia diretamente",
+      "prioridade": "Assunto sensível (MÉDIA)",
+      "data": "2026-11-16",
+      "status": "sensivel - aguardando RH formalizar"
+    },
+    {
+      "id": "Alerta O365 informational: nova regra de redirecionamento na caixa nfe@bdrmt (16/11 11:30Z) - recorrente (já houve 13/11)",
+      "prioridade": "MÉDIA",
+      "data": "2026-11-16",
+      "status": "confirmar se autorizado"
+    },
+    {
+      "id": "Informativos 16-17/11: Robô NFS-e 17/11 (Fase 2: 5 concluídas, 23 paradas, 1 falha; 5 aguardando medição; 21 emitidas 26-fim do mês p/ cancelar), pedidos obra 69 manuais (42448, 42449, 42528 p/ Luciene), NF PJ restrito 16/11 (33 fornecedores sem e-mail, anexo não lido), Entra Connect 16/11 15:42Z, Christian adicionado à equipe/grupo Teams 'Tecnologia e Inovação' (Antonio Caye 16/11), custo obra 741 lançado (Maria Ferreira), marketing (NuageIT, PRO IT, Milvus x2, SoftExpert)",
+      "prioridade": "BAIXA",
+      "data": "2026-11-17",
+      "status": "informativo"
     }
   ],
   "pendencias": [
@@ -798,6 +816,7 @@
     "Execução 05/11: conector M365 ok; 17 e-mails no Inbox desde 04/11 11:00Z, 2 enviados (04/11 17:07 Senior; sem resposta a Leticia ainda); agenda 05-07/11 vazia (busca sem retorno); sem críticas/altas novas (ALTA Financeiro/liberações segue aberta). Sem notificação enviada.",
     "Execução 06/11: conector M365 ok; ~30 e-mails no Inbox desde 05/11 11:00Z, 1 enviado (cartão Claude IA); agenda 06-08/11 vazia (busca sem retorno); sem críticas/altas novas; Senior: Controle de Ponto exige nova proposta. Sem notificação enviada.",
     "Execução 13/11 ~11:05Z: FALHOU a leitura. Conector M365 conectado (perfil ok), mas buscas de e-mail (Inbox/Enviados) e agenda retornaram erro 502 do Microsoft Graph em 5 rodadas ao longo de ~12 min. Nenhum e-mail analisado; ultima_execucao mantida em 09/11 10:53Z para a próxima execução cobrir o período. Notificação de falha enviada.",
-    "Execução 16/11 ~11:00Z: conector M365 ok; 164 e-mails no Inbox desde 09/11 10:53Z (cobre a falha de 13/11; ~5 e-mails automáticos da Anthropic omitidos pelo conector), 8 enviados; agenda 16-18/11 vazia (busca sem retorno); 0 críticas; 1 ALTA nova (sensível: Senior/Edson Souza 09/11); Starlink falha de pagamento 16/11. Notificação enviada."
+    "Execução 16/11 ~11:00Z: conector M365 ok; 164 e-mails no Inbox desde 09/11 10:53Z (cobre a falha de 13/11; ~5 e-mails automáticos da Anthropic omitidos pelo conector), 8 enviados; agenda 16-18/11 vazia (busca sem retorno); 0 críticas; 1 ALTA nova (sensível: Senior/Edson Souza 09/11); Starlink falha de pagamento 16/11. Notificação enviada.",
+    "Execução 17/11 11:00Z: conector M365 ok; 17 e-mails no Inbox desde 16/11 11:00Z, 1 enviado (mudança contratual, respondido por Luan); agenda 17-19/11 vazia (busca sem retorno); sem críticas/altas novas; pendências antigas mantidas (bloqueio grupos todos.* ALTA desde 08/11). Sem notificação enviada."
   ]
 }
