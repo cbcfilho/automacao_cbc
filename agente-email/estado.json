@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-11-17T11:00:00Z",
+  "ultima_execucao": "2026-11-18T11:00:00Z",
   "itens_reportados": [
     {
       "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
@@ -582,6 +582,36 @@
       "prioridade": "BAIXA",
       "data": "2026-11-17",
       "status": "informativo"
+    },
+    {
+      "id": "VENCIDO - CONSTRUART LTDA (Lattine Group): cobrança de NF vencida enviada originalmente a ti@bdrmt (11/11); Financeiro (Leticia) não acha pedido de compra; Tatiana copiou Christian e Suzane p/ conhecimento 17/11 18:00",
+      "prioridade": "ALTA",
+      "data": "2026-11-17",
+      "status": "aberto - Christian confirmar se a compra é da TI e qual pedido"
+    },
+    {
+      "id": "RECUSA DE NFS-e: Lucas Souza (Controller) marcou Christian 17/11 sobre NFS-e Microsoft pagas no cartão dele p/ Construart (e recibo de empresa 'SALARIO' que ele desconhece); Fiscal (Ana Clara) pede abrir solicitação de pedido/contrato informando pagamento com recursos próprios p/ reembolso",
+      "prioridade": "MÉDIA",
+      "data": "2026-11-17",
+      "status": "aberto - Christian orientar/confirmar assinaturas Microsoft"
+    },
+    {
+      "id": "Mudança Contratual (RH) - respostas Tayna, Camila, Andrei 17/11; Christian respondeu 17/11 16:59 - Assunto sensível (RH), leia diretamente",
+      "prioridade": "Assunto sensível (MÉDIA)",
+      "data": "2026-11-17",
+      "status": "sensivel - Christian já respondeu"
+    },
+    {
+      "id": "Enviados 17/11: 'Cancelamento Contrato - LBR' p/ Rosangela (cc Luan) com minuta - cancelar em dezembro, renegociar licenças direto com Microsoft a partir de jan; 'Guia p/ pagamento - Laudo Técnico Sinistro Aroeira' p/ Lisiane (boleto CREA-MT/ART R$ 108,39, venc. 27/11/2026)",
+      "prioridade": "MÉDIA",
+      "data": "2026-11-17",
+      "status": "aguardando respostas"
+    },
+    {
+      "id": "Informativos 17-18/11: Robô NFS-e 18/11 (Fase 2: 6 concluídas, 25 paradas, 0 falhas; 4 aguardando medição; 19 emitidas 26-fim do mês p/ cancelar), pedido 42607 obra 69 manual (Luciene), Entra Connect erros 17/11 22:24Z, GLPI 2081 solucionado, NF PJ restrito 17/11 (33 fornecedores, 88 avisos), boas-vindas Microsoft 365 Copilot, Gemini (conta starlink.bwp.aroeira), Construmanager 16 e 17/11, marketing (Construmanager comercial, Hittelco, Bluefield, Pro IT, Milvus x2, SoftExpert)",
+      "prioridade": "BAIXA",
+      "data": "2026-11-18",
+      "status": "informativo"
     }
   ],
   "pendencias": [
@@ -747,6 +777,34 @@
         "Christian/TI decidir"
       ],
       "desde": "2026-11-13"
+    },
+    {
+      "assunto": "Lattine Group cobra NF vencida (Construart) sem pedido de compra - confirmar se é compra da TI",
+      "aguardando": [
+        "Christian"
+      ],
+      "desde": "2026-11-17"
+    },
+    {
+      "assunto": "NFS-e Microsoft pagas no cartão do Lucas Souza: orientar abertura de solicitação de pedido/contrato p/ reembolso",
+      "aguardando": [
+        "Christian / Lucas"
+      ],
+      "desde": "2026-11-17"
+    },
+    {
+      "assunto": "Cancelamento contrato LBR Soluções em TI: análise da minuta pela Jurídica (enviado 17/11)",
+      "aguardando": [
+        "Rosangela Dallabrida"
+      ],
+      "desde": "2026-11-17"
+    },
+    {
+      "assunto": "Boleto CREA-MT laudo sinistro Aroeira R$ 108,39 venc. 27/11 - pagamento e comprovante",
+      "aguardando": [
+        "Lisiane / Financeiro BWP"
+      ],
+      "desde": "2026-11-17"
     }
   ],
   "correcoes": [
@@ -817,6 +875,7 @@
     "Execução 06/11: conector M365 ok; ~30 e-mails no Inbox desde 05/11 11:00Z, 1 enviado (cartão Claude IA); agenda 06-08/11 vazia (busca sem retorno); sem críticas/altas novas; Senior: Controle de Ponto exige nova proposta. Sem notificação enviada.",
     "Execução 13/11 ~11:05Z: FALHOU a leitura. Conector M365 conectado (perfil ok), mas buscas de e-mail (Inbox/Enviados) e agenda retornaram erro 502 do Microsoft Graph em 5 rodadas ao longo de ~12 min. Nenhum e-mail analisado; ultima_execucao mantida em 09/11 10:53Z para a próxima execução cobrir o período. Notificação de falha enviada.",
     "Execução 16/11 ~11:00Z: conector M365 ok; 164 e-mails no Inbox desde 09/11 10:53Z (cobre a falha de 13/11; ~5 e-mails automáticos da Anthropic omitidos pelo conector), 8 enviados; agenda 16-18/11 vazia (busca sem retorno); 0 críticas; 1 ALTA nova (sensível: Senior/Edson Souza 09/11); Starlink falha de pagamento 16/11. Notificação enviada.",
-    "Execução 17/11 11:00Z: conector M365 ok; 17 e-mails no Inbox desde 16/11 11:00Z, 1 enviado (mudança contratual, respondido por Luan); agenda 17-19/11 vazia (busca sem retorno); sem críticas/altas novas; pendências antigas mantidas (bloqueio grupos todos.* ALTA desde 08/11). Sem notificação enviada."
+    "Execução 17/11 11:00Z: conector M365 ok; 17 e-mails no Inbox desde 16/11 11:00Z, 1 enviado (mudança contratual, respondido por Luan); agenda 17-19/11 vazia (busca sem retorno); sem críticas/altas novas; pendências antigas mantidas (bloqueio grupos todos.* ALTA desde 08/11). Sem notificação enviada.",
+    "Execução 18/11 11:00Z: conector M365 ok; 24 e-mails no Inbox desde 17/11 11:00Z, 4 enviados (LBR p/ Jurídico, boleto laudo Aroeira, RH Victor Klein, pasta Fluxo de Caixa); agenda 18-20/11 vazia (busca sem retorno); 0 críticas; 1 ALTA nova (Lattine/Construart vencido). Notificação enviada."
   ]
 }
