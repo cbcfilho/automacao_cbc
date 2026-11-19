@@ -1,5 +1,5 @@
 {
-  "ultima_execucao": "2026-11-18T11:00:00Z",
+  "ultima_execucao": "2026-11-19T11:00:00Z",
   "itens_reportados": [
     {
       "id": "Frigotto/Gean - equipamentos TI 5 novos engenheiros eletromecânica",
@@ -612,6 +612,48 @@
       "prioridade": "BAIXA",
       "data": "2026-11-18",
       "status": "informativo"
+    },
+    {
+      "id": "Sienge sem acesso às obras 8020/8055: GLPI 2092 (Tatiana, Matriz, 'há mais de uma semana', impede trabalho, não só ela) + GLPI 2087 (Ezequiel, Analista Financeiro: liberar obras 8055 e novas + empresas p/ todo o Financeiro: Ezequiel, Débora, Tatiana, Mônica, Maria) - ambos atribuídos ao Christian 18/11",
+      "prioridade": "ALTA",
+      "data": "2026-11-18",
+      "status": "aberto - Christian/TI liberar acesso"
+    },
+    {
+      "id": "Robô NFS-e Fase 2 19/11: não rodou (falha ao abrir navegador Edge p/ AUTOSIENGE - TargetClosedError); NF 370 Borracharia Fenix em dúvida desde 12/11; aviso 19/11: 7 aguardando medição (4 novas), 19 emitidas 26-fim do mês p/ cancelar",
+      "prioridade": "MÉDIA",
+      "data": "2026-11-19",
+      "status": "aberto - verificar robô e conferir NF 370"
+    },
+    {
+      "id": "GLPI 2086 (Kauane, 18/11): monitor do Fsist desligado de novo no servidor, impede parcialmente",
+      "prioridade": "MÉDIA",
+      "data": "2026-11-18",
+      "status": "aberto"
+    },
+    {
+      "id": "Alertas O365 informational: regra de redirecionamento nfe@bdrmt 18/11 12:45Z e 13:30Z (recorrente desde 13/11)",
+      "prioridade": "MÉDIA",
+      "data": "2026-11-18",
+      "status": "confirmar se autorizado"
+    },
+    {
+      "id": "Lisiane enviou comprovante de pagamento do boleto CREA-MT laudo sinistro Aroeira (18/11 11:58Z, PDF não lido)",
+      "prioridade": "BAIXA",
+      "data": "2026-11-18",
+      "status": "resolvido"
+    },
+    {
+      "id": "Agenda 19/11 09:00-09:30 (Cuiabá) 'Bate-papo com Christian Ti' com Paulo Alves Borges Júnior, Sala Castanheiras/Teams - aceito 18/11; Christian compartilhou pasta 'Endividamento' com ele 18/11",
+      "prioridade": "MÉDIA",
+      "data": "2026-11-19",
+      "status": "agenda"
+    },
+    {
+      "id": "Informativos 18-19/11: Sienge ID conta criada/convite 'Sienge Teste' org. CONSTRUART (feito pelo próprio Christian, código não repetido), Entra Connect erros 19/11 05:10Z, GLPI 2085 impressora (Amanda), GLPI 2022/2033 encerrados, NF PJ restrito 18/11 (33 fornecedores, 88 avisos), reação Camila (Mudança contratual), Construmanager, marketing (LAIOB, Milvus, SoftExpert, Pro IT, Senior UCS, Construmanager comercial)",
+      "prioridade": "BAIXA",
+      "data": "2026-11-19",
+      "status": "informativo"
     }
   ],
   "pendencias": [
@@ -800,11 +842,11 @@
       "desde": "2026-11-17"
     },
     {
-      "assunto": "Boleto CREA-MT laudo sinistro Aroeira R$ 108,39 venc. 27/11 - pagamento e comprovante",
+      "assunto": "Sienge: acesso Financeiro às obras 8020/8055 e novas (GLPI 2087 e 2092)",
       "aguardando": [
-        "Lisiane / Financeiro BWP"
+        "Christian/TI"
       ],
-      "desde": "2026-11-17"
+      "desde": "2026-11-18"
     }
   ],
   "correcoes": [
@@ -850,6 +892,10 @@
       ],
       "desde": "2026-10-14",
       "resolvido_em": "2026-10-15"
+    },
+    {
+      "assunto": "Boleto CREA-MT laudo sinistro Aroeira - comprovante enviado por Lisiane 18/11",
+      "data": "2026-11-18"
     }
   ],
   "observacoes": [
@@ -876,6 +922,7 @@
     "Execução 13/11 ~11:05Z: FALHOU a leitura. Conector M365 conectado (perfil ok), mas buscas de e-mail (Inbox/Enviados) e agenda retornaram erro 502 do Microsoft Graph em 5 rodadas ao longo de ~12 min. Nenhum e-mail analisado; ultima_execucao mantida em 09/11 10:53Z para a próxima execução cobrir o período. Notificação de falha enviada.",
     "Execução 16/11 ~11:00Z: conector M365 ok; 164 e-mails no Inbox desde 09/11 10:53Z (cobre a falha de 13/11; ~5 e-mails automáticos da Anthropic omitidos pelo conector), 8 enviados; agenda 16-18/11 vazia (busca sem retorno); 0 críticas; 1 ALTA nova (sensível: Senior/Edson Souza 09/11); Starlink falha de pagamento 16/11. Notificação enviada.",
     "Execução 17/11 11:00Z: conector M365 ok; 17 e-mails no Inbox desde 16/11 11:00Z, 1 enviado (mudança contratual, respondido por Luan); agenda 17-19/11 vazia (busca sem retorno); sem críticas/altas novas; pendências antigas mantidas (bloqueio grupos todos.* ALTA desde 08/11). Sem notificação enviada.",
-    "Execução 18/11 11:00Z: conector M365 ok; 24 e-mails no Inbox desde 17/11 11:00Z, 4 enviados (LBR p/ Jurídico, boleto laudo Aroeira, RH Victor Klein, pasta Fluxo de Caixa); agenda 18-20/11 vazia (busca sem retorno); 0 críticas; 1 ALTA nova (Lattine/Construart vencido). Notificação enviada."
+    "Execução 18/11 11:00Z: conector M365 ok; 24 e-mails no Inbox desde 17/11 11:00Z, 4 enviados (LBR p/ Jurídico, boleto laudo Aroeira, RH Victor Klein, pasta Fluxo de Caixa); agenda 18-20/11 vazia (busca sem retorno); 0 críticas; 1 ALTA nova (Lattine/Construart vencido). Notificação enviada.",
+    "Execução 19/11 11:00Z: conector M365 ok; 25 e-mails no Inbox desde 18/11 11:00Z, 2 enviados (aceite reunião Paulo Jr., compartilhamento pasta Endividamento); agenda 19/11: bate-papo com Paulo Alves Borges Júnior 09:00 (Cuiabá); 0 críticas; 1 ALTA nova (Financeiro sem acesso a obras no Sienge, GLPI 2087/2092); robô NFS-e Fase 2 não rodou 19/11; boleto CREA resolvido. Notificação enviada."
   ]
 }
